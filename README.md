@@ -1,4 +1,5 @@
 # Summary
+
 The Punjabi-Rang treebank is a manually annotated corpus in Punjabi (Shahmukhi script).  
 
 # Introduction
@@ -24,6 +25,11 @@ The treebank was annotated by Rimsha Abid. Supervision and revision by Luigi Tal
 
 ## References
 In preparation
+
+# Changelog
+
+* 2026-05-15 v2.18
+  * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
