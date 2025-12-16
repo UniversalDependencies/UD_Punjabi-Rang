@@ -1561,7 +1561,7 @@
 4	ہوں	ہونا	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	-	-	PUNCT	_	_	4	punct	_	_
 
-# sent_id_coercive_discourse  = 2
+# sent_id = coercive_disc-train__2
 # original_text = پنجابی زبان ’تے وی میرا پورا عبور نہیں۔.
 # transliteration = panjabi zabaan te vi mera poora aboor nahin.
 # translation = I do not have complete command over the Punjabi language.
@@ -1829,7 +1829,7 @@
 8	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	7	aux	_	_
 9	-	-	PUNCT	_	_	7	punct	_	_
 
-# sent_id _coercive_discourse= 14
+# sent_id = coercive_disc-train__14
 # original_text = پر ایہہ سب ہن ماضی بن چکیا۔.
 # transliteration = par eh sab hun maazi ban chukia.
 # translation = But all this has now become a thing of the past.
