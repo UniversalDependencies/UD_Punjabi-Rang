@@ -1,42 +1,36 @@
-# Summary
+# Universal Dependencies Treebank for Punjabi-Rang
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/contributing/release_checklist.html#the-readme-file) for README guidelines) ...
+## Treebank name
+**Punjabi-Rang**
 
+## Language
+**Punjabi (Shahmukhi script)**
 
-# Introduction
+## UD Version
+Universal Dependencies v2
 
-...
+## Description
+The Punjabi-Rang treebank is a manually annotated corpus in Punjabi (Shahmukhi script).  
+It contains **100 sentences** from the first two chapters of *The Petit Prince* translated into Punjabi and **37 sentences** from a blog page containing a discourse on the national Punjabi day.  
+The data has been annotated according to Universal Dependencies guidelines.
 
+## Data split
+The corpus is split **contiguously** into training, development, and test sets as follows:
 
-# Acknowledgments
+| Split | Number of sentences |
+|-------|-------------------|
+| Train | 67 (petit prince) + 14 (discourse) |
+| Dev   | 17 (petit prince) + 13 (discourse)  |
+| Test  | 16 (petit prince) + 10 (discourse) |
 
-...
+## Annotation guidelines
+Annotation follows the Universal Dependencies v2 guidelines for tokenization, part-of-speech tags, and dependency relations.
 
-## References
+## Source
+Data was collected manually from the first two chapters of *The Petit Prince* (Punjabi translation, Shahmukhi script) and from the blog post at https://www.express.pk/story/2020057/kya-pnjaby-sqaft-madwm-hwrhy-he-2020057
 
-* (citation)
+## License
+CC BY-SA 4.0
 
-
-# Changelog
-
-* 2026-05-15 v2.18
-  * Initial release in Universal Dependencies.
-
-
-<pre>
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.18
-License: CC BY-SA 4.0
-Includes text: yes
-Parallel: no
-Genre: TO-BE-SPECIFIED
-Lemmas: manual native
-UPOS: manual native
-XPOS: not available
-Features: manual native
-Relations: manual native
-Contributors: Talamo, Luigi; Verkerk, Annemarie
-Contributing: here
-Contact: luigi.talamo@uni-saarland.de
-===============================================================================
-</pre>
+## Contributors
+Rimsha Abid
