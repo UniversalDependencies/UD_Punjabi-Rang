@@ -1549,7 +1549,7 @@
 29	ہوویگا	ہونا	AUX	_	Mood=Ind	4	aux	_	_
 30	۔	۔	PUNCT	_	_	4	punct	_	_
 
-# sent_id_coercive_discourse = 1
+# sent_id = coercive_disc-train__1
 # original_text = میں پنجابی نہیں ہوں۔.
 # transliteration = main panjabi nahin haan.
 # translation = I am not a Punjabi.
@@ -1577,7 +1577,7 @@
 8	نہیں	نہیں	PART	_	_	7	advmod	_	_
 9	-	-	PUNCT	_	_	7	punct	_	_
 
-# sent_id_coercive_discourse = 3
+# sent_id = coercive_disc-train__3
 # original_text = میں مغربی لباس پہنتا ہاں۔.
 # transliteration = main maghribi libaas pehnda haan.
 # translation = I wear Western clothes.
@@ -1590,7 +1590,7 @@
 5	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres	4	aux	_	_
 6	۔	۔	PUNCT	_	_	4	punct	_	_
 
-# sent_id_coercive_discourse = 4
+# sent_id = coercive_disc-train__4
 # original_text = میں اردو گانے وی سن لیندا ہاں، پر جدوں غصہ آوے تے ٹھیٹھ پنجابی لہجے وچ موٹی گالی دین توں نہیں کتراندا۔.
 # transliteration = main urdu gaane vi sun leinda haan, par jadon ghussa aave te theth panjabi lahje vich moti gaali den ton nahin katranda.
 # translation = I listen to Urdu songs too, but when I get angry I do not hesitate to swear in a thick Punjabi accent.
@@ -1620,7 +1620,7 @@
 22	کتراندا	کتراندا	VERB	_	_	5	conj	_	_
 23	۔	۔	PUNCT	_	_	5	punct	_	_
 
-# sent_id_coercive_discourse = 5
+# sent_id = coercive_disc-train__5
 # original_text = یعنی محبت دا اظہار کرن لئی میں انگریزی دا سہارا لیندا ہاں، پر نفرت دے ویلے مینوں پنجاب یاد آ جاندا اے۔.
 # transliteration = yani muhabbat da izhaar karan lai main angrezi da sahara leinda haan, par nafrat de vele mainu panjab yaad aa jaanda ae.
 # translation = Meaning, for the expression of love I rely on English, but in moments of hate the memory of Punjab haunts me.
@@ -1762,7 +1762,7 @@
 13	اے	ہونا	AUX	_	Mood=Ind	11	aux	_	_
 14	-	-	PUNCT	_	_	11	punct	_	_
 
-# sent_id _coercive_discourse= 11
+# sent_id = coercive_disc-train__11
 # original_text = بوائی دے ویلے لوہڑی منائی جاندی اے، تے فصل پکدی اے تاں اوہنوں اپنی محنت دا پھل ملدا اے۔.
 # transliteration = boai de vele Lohri manai jandi ae, te fasal pakdi ae taan ohnu apni mehnat da phal milda ae.
 # translation = At sowing time Lohri is celebrated, and when the crop ripens he receives the fruit of his labour.
@@ -1813,7 +1813,7 @@
 16	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	15	aux	_	_
 17	-	_	PUNCT	_	_	15	punct	_	_
 
-# sent_id _coercive_discourse= 13
+# sent_id = coercive_disc-train__13
 # original_text = گھاگھرا پا کے دوشیزائیں لوک گیت گاندیاں نیں۔.
 # transliteration = ghaghra paa ke doshezaan lok geet gaandian ne.
 # translation = Girls wearing ghaghras sing folk songs.
