@@ -1650,7 +1650,7 @@
 22	اے	ہونا	AUX	_	_	20	aux	_	_
 23	۔	۔	PUNCT	_	_	11	punct	_	_
 
-# sent_id_coercive_discourse= 6
+# sent_id = coercive_disc-train__6
 # original_text = میں بلھے شاہ، شاہ فرید تے وارث شاہ دی دھرتی تے رہ کے وی پنجابی نوں محبت دا ذریعہ نہ بنا سکیا۔.
 # transliteration = main Bulleh Shah, Shah Farid te Waris Shah di dharti te reh ke vi panjabi nu muhabbat da zariya na bana sakkia.
 # translation = Even while living in the land of Bulleh Shah, Shah Farid, and Waris Shah, I could not make Punjabi a means of expressing love.
@@ -1680,7 +1680,7 @@
 22	سکیا	سکیا	VERB	_	_	0	root	_	_
 23	۔	۔	PUNCT	_	_	22	punct	_	_
 
-# sent_id_coercive_discourse= 7
+# sent_id = coercive_disc-train__7
 # original_text = ایہہ صرف میری کہانی نہیں۔.
 # transliteration = eh sirf meri kahani nahin.
 # translation = This is not just my story.
@@ -1693,7 +1693,7 @@
 5	نہیں	نہیں	PART	_	_	4	advmod	_	_
 6	۔	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id_coercive_discourse= 8
+# sent_id = coercive_disc-train__8
 # original_text = ایہہ پنجاب وچ رہن والے ہر بندے دی داستان اے۔.
 # transliteration = eh panjab vich rehn vaale har bande di daastaan ae.
 # translation = This is the tale of every individual living in Punjab.
@@ -1711,7 +1711,7 @@
 10	اے	ہونا	AUX	_	Mood=Ind|Tense=Pres	9	aux	_	_
 11	۔	۔	PUNCT	_	_	9	punct	_	_
 
-# sent_id_coercive_discourse= 9
+# sent_id = coercive_disc-train__9
 # original_text = ایہہ ہر پنجابی دا دکھ اے کہ ترقی دی تیز رفتاری نال لوگ اپنی ثقافت تے روایت توں دور ہو رہے نیں۔.
 # transliteration = eh har panjabi da dukh ae ke taraqqi di teiz raftari naal log apni saqaafat te riwaayat ton door ho rahe ne.
 # translation = It is the tragedy of every Punjabi that, while chasing rapid progress, people are drifting away from their culture and traditions.
@@ -1741,7 +1741,7 @@
 22	نیں	ہونا	AUX	_	Mood=Ind|Tense=Pres	20	aux	_	_
 23	-	-	PUNCT	_	_	5	punct	_	_
 
-# sent_id_coercive_discourse= 10
+# sent_id = coercive_disc-train__10
 # original_text = اتھے دا کسان گندم دی کاشت تے کٹائی دے ویلے خوش ہوندا اے۔.
 # transliteration = itthe da kisaan gandum di kaasht te katai de vele khush honda ae.
 # translation = The farmer here is overjoyed at the time of sowing and harvesting wheat.
@@ -1789,7 +1789,7 @@
 19	اے	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	18	aux	_	_
 20	-	-	PUNCT	_	_	5	punct	_	_
 
-# sent_id_coercive_discourse= 12
+# sent_id = coercive_disc-train__12
 # original_text = ڈھول دی تھاپ ’تے مرد لنگیاں، دھوتیاں، تہبند، کرتے تے پاجامے پا کے رقص کردے نیں۔.
 # transliteration = dhol di thaap te mard lungian, dhotian, tahband, kurte te paijaame paa ke raqs karde ne.
 # translation = On this occasion, men wearing colorful lungis, dhotis, tahbands, kurtas, and pajamas dance to the beat of the drum.

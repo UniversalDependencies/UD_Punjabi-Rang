@@ -358,7 +358,7 @@
 16	ہن	ہونا	AUX	_	Mood=Ind	12	conj	_	_
 17	۔	۔	PUNCT	_	_	4	punct	_	_
 
-# sent_id_coercive_discourse= 15
+# sent_id = coercive_disc-dev__15
 # original_text = ہن ٹریکٹر نال فصل بوئی جاندی اے تے ہارویسٹر نال کٹائی ہوندی اے۔.
 # transliteration = hun tractor naal fasal boi jandi ae te harvester naal katai hondi ae.
 # translation = Now in the villages of Punjab, crops are sown with tractors and harvested with machines.
@@ -379,7 +379,7 @@
 13	اے	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	12	aux	_	_
 14	-	-	PUNCT	_	_	5	punct	_	_
 
-# sent_id _coercive_discourse= 16
+# sent_id = coercive_disc-dev__16
 # original_text = تہواراں دی بجائے کسان آڑھتی لبھدا پھر دا اے۔.
 # transliteration = tehvaaran di bajaye kisaan aardhti labhda phirda ae.
 # translation = Now, instead of festivals, the farmer is busy looking for a middleman.
@@ -396,7 +396,7 @@
 9	اے	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	6	aux	_	_
 10	-	_	PUNCT	_	_	6	punct	_	_
 
-# sent_id_coercive_discourse= 17
+# sent_id = coercive_disc-dev__17
 # original_text = ہن اوہ ڈانس دی بجائے سرکاری دفتراں دے چکر لا رہے نیں۔.
 # transliteration = hun oh dance di bajaye sarkaari daftarann de chakkar la rahe ne.
 # translation = Now, instead of dancing, he wastes time going in circles around government offices.
@@ -416,7 +416,7 @@
 12	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Part	10	aux	_	_
 13	-	_	PUNCT	_	_	10	punct	_	_
 
-# sent_id_coercive_discourse= 18
+# sent_id = coercive_disc-dev__18
 # original_text = لڑکیاں گھاگھرا تے لوک گیتاں دی بجائے ڈگریاں لے کے مستقبل بارے سوچ رہیاں نیں۔.
 # transliteration = ladkian ghaghra te lok geetan di bajaye degreean le ke mustaqbil baare soch rahian ne.
 # translation = Girls, instead of wearing ghaghras and humming folk songs, become absorbed in thoughts of their future while holding degrees.
@@ -439,7 +439,7 @@
 15	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	13	aux	_	_
 16	-	-	PUNCT	_	_	13	punct	_	_
 
-# sent_id_coercive_discourse= 19
+# sent_id = coercive_disc-dev__19
 # original_text = آج میاں محمد بخش، بلھے شاہ، غلام فرید تے وارث شاہ دا کلام کوئی نہیں سن دا۔.
 # transliteration = aaj Mian Muhammad Bakhsh, Bulleh Shah, Ghulam Farid te Waris Shah da kalaam koi nahin sun da.
 # translation = Today, no one listens to the poetry of Mian Muhammad Bakhsh, Bulleh Shah, Ghulam Farid, or Waris Shah.
@@ -464,7 +464,7 @@
 17	دا	دا	PART	_	_	16	compound	_	_
 18	-	-	PUNCT	_	_	16	punct	_	_
 
-# sent_id_coercive_discourse= 20
+# sent_id = coercive_disc-dev__20
 # original_text = موسیقار ہن کمپیوٹر ’تے بیٹھ کے موسیقی بناؤندے نیں۔.
 # transliteration = musiqaar hun computer te baith ke moseeqi banaaunde ne.
 # translation = Now musicians compose music sitting at computers.
@@ -481,7 +481,7 @@
 9	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	8	aux	_	_
 10	-	-	PUNCT	_	_	8	punct	_	_
 
-# sent_id_coercive_discourse= 21
+# sent_id = coercive_disc-dev__21
 # original_text = میلے ہن نہیں لگدے۔.
 # transliteration = mele hun nahin lagde.
 # translation = Now fairs are not held.
@@ -493,7 +493,7 @@
 4	لگدے	لگنا	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	-	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id_coercive_discourse= 22
+# sent_id = coercive_disc-dev__22
 # original_text = مقامی تہوار ختم ہو رہے نیں، تے لوک فنکار مجبور نیں۔.
 # transliteration = muqaami tehvaar khatam ho rahe ne, te lok funkaar majboor ne.
 # translation = Now local festivals do not happen and folk artists are forced to starve.
@@ -512,7 +512,7 @@
 11	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	10	aux	_	_
 12	-	-	PUNCT	_	_	3	punct	_	_
 
-# sent_id_coercive_discourse= 23
+# sent_id = coercive_disc-dev__23
 # original_text = پنجابی ثقافت دا عالمی دن مناؤن وقت، اس دے زوال ’تے بحث دی ضرورت نہیں۔.
 # transliteration = panjabi saqaafat da aalmi din manaun waqt, is de zawal te behs di zaroorat nahin.
 # translation = At this time, when Punjabi Culture Day is being celebrated, there is no need to argue about the reasons for this decline.
@@ -535,7 +535,7 @@
 15	نہیں	نہیں	PART	_	_	14	mark	_	_
 16	-	-	PUNCT	_	_	14	punct	_	_
 
-# sent_id_coercive_discourse= 24
+# sent_id = coercive_disc-dev__24
 # original_text = جے اسی پنجابی لباس، کھانا، زبان نوں شرمندگی سمجھئیے تے “پینڈو” نوں گالی بنا دیئے، تے ثقافت ختم ہو جانی اے۔.
 # transliteration = je asi panjabi libaas, khaana, zabaan nu sharmindgi samjhiye te ‘paindu’ nu gaali bana diye, te saqaafat khatam ho jaani ae.
 # translation = If we consider Punjabi clothes, food, and language a cause of embarrassment and turn ‘paindu’ (villager) into an insult, then culture is bound to disappear.
@@ -566,7 +566,7 @@
 23	اے	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	21	aux	_	_
 24	-	-	PUNCT	_	_	21	punct	_	_
 
-# sent_id_coercive_discourse= 25
+# sent_id = coercive_disc-dev__25
 # original_text = جے اسی کرتا تے دھوتی نوں شرمندگی سمجھئیے۔.
 # transliteration = je asi kurta te dhoti nu sharmindgi samjhiye.
 # translation = If we consider kurtas and dhotis a cause of shame.
@@ -582,7 +582,7 @@
 8	سمجھئیے	سمجھنا	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 9	-	-	PUNCT	_	_	8	punct	_	_
 
-# sent_id_coercive_discourse= 26
+# sent_id = coercive_disc-dev__26
 # original_text = جے پگ دی بجائے ٹوپی پا کے فخر محسوس کریئے۔.
 # transliteration = je pag di bajaye topi paa ke fakhr mehsoos kariye.
 # translation = If we feel proud wearing a hat instead of a turban.
@@ -600,7 +600,7 @@
 10	کریئے	کرنا	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	-	-	PUNCT	_	_	10	punct	_	_
 
-# sent_id_coercive_discourse= 27
+# sent_id = coercive_disc-dev__27
 # original_text = جے مغربی شاعراں نوں بلھے شاہ تے وارث شاہ ’تے ترجیح دیئے۔.
 # transliteration = je maghribi shaairan nu Bulleh Shah te Waris Shah te tarjeeh diye.
 # translation = If we prefer the works of Western poets over Bulleh Shah and Waris Shah.
