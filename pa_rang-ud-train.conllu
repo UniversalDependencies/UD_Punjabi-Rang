@@ -1,0 +1,1846 @@
+# sent_id = pa_rang-ud-train__1
+# original_text = اک وار، جدوں میں چھ سال دا ساں۔
+# transliteration = ik vār, jadō̃ maĩ chhe sāl dā sā̃.
+# gloss = once, when I six year GEN COP.PST
+# translation = Once, when I was six years old.
+# rtl = yes
+# text = اک ، وار جدوں میں چھ سال دا ساں ۔
+1	اک	ایک	NUM	_	NumType=Card	3	nummod	_	_
+2	،	،	PUNCT	_	_	3	punct	_	_
+3	وار	وار	NOUN	_	Gender=Masc|Number=Sing	7	obl:tmod	_	_
+4	جدوں	جدوں	SCONJ	_	_	7	mark	_	_
+5	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	چھ	چھ	NUM	_	NumType=Card	7	nummod	_	_
+7	سال	سال	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	دا	دا	ADP	_	_	7	case	_	_
+9	ساں	ہونا	AUX	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	7	cop	_	_
+10	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__2
+# original_text = اک کتاب جسدا ناں سی 'کدرت وچوں سچیاں کہانیاں' وچ بڑے پرانے جنگل دی بڑی شاندار تسویر دیکھی۔
+# transliteration = ik kitāb jis-dā nā̃ sī 'kudrat vicchõ sachiyā̃ kahāniā̃' vic baṛe purāne jangal dī baṛī shāndār tasvīr dekhī.
+# gloss = one book which.GEN name COP.PST 'Nature from true stories' in big old forest GEN very splendid picture saw.PST
+# translation = I saw a splendid picture in a book called 'True Stories from Nature'.
+# rtl = yes
+# text = اک کتاب جسدا ناں سی قدرت وچوں سچیاں کہانیاں وچ بڑے پرانے جنگل دی بڑی شاندار تسویر دیکھی ۔
+1	اک	ایک	NUM	_	NumType=Card	2	nummod	_	_
+2	کتاب	کتاب	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+3	جسدا	جسدا	PRON	_	PronType=Rel	4	nmod:poss	_	_
+4	ناں	نام	NOUN	_	Gender=Masc|Number=Sing	2	acl:relcl	_	_
+5	سی	ہونا	AUX	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+6	قدرت	قدرت	NOUN	_	Gender=Fem|Number=Sing	9	nmod:poss	_	_
+7	وچوں	وچ	ADP	_	_	9	case	_	_
+8	سچیاں	سچا	ADJ	_	Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
+9	کہانیاں	کہانی	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+10	وچ	وچ	ADP	_	_	2	case	_	_
+11	بڑے	بڑا	ADJ	_	Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	_
+12	پرانے	پرانا	ADJ	_	Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	_
+13	جنگل	جنگل	NOUN	_	Gender=Masc|Number=Sing	17	nmod:poss	_	_
+14	دی	دا	ADP	_	_	13	case	_	_
+15	بڑی	بڑا	ADJ	_	Degree=Pos|Number=Sing	17	amod	_	_
+16	شاندار	شاندار	ADJ	_	Degree=Pos	17	amod	_	_
+17	تسویر	تسویر	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+18	دیکھی	دیکھی	VERB	_	Aspect=Perf|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+19	۔	۔	PUNCT	_	_	18	punct	_	_
+
+# sent_id = pa_rang-ud-train__3
+# original_text = اہ تسویر اک اجگر دی سی جو کسے جانور نوں نگھلن وچ رجھیا ہویا سی۔
+# transliteration = uh tasvīr ik ajgar dī sī jo kise jānvār nū̃ nighlan vic rajhiā hoiā sī.
+# gloss = this picture one boa GEN COP.PST REL some animal ACC swallow.INF in engaged.PFV be.PFV COP.PST
+# translation = This picture was of a boa constrictor swallowing an animal.
+# rtl = yes
+# text = اہ تصویر اک اجگر دی سی جو کسے جانور نوں نگھلن وچ رجھیا ہویا سی ۔
+1	اہ	یہ	DET	_	PronType=Dem	2	det	_	_
+2	تصویر	تصویر	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	اک	ایک	NUM	_	NumType=Card	4	nummod	_	_
+4	اجگر	اجگر	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	دی	دا	ADP	_	_	4	case	_	_
+6	سی	ہونا	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+7	جو	جو	PRON	_	PronType=Ind	13	nsubj	_	_
+8	کسے	کسے	DET	_	PronType=Ind	9	det	_	_
+9	جانور	جانور	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+10	نوں	نوں	ADP	_	_	9	case	_	_
+11	نگھلن	نگھلنا	VERB	_	VerbForm=Inf	13	obl	_	_
+12	وچ	وچ	ADP	_	_	11	case	_	_
+13	رجھیا	رجھنا	VERB	_	Aspect=Perf|Gender=Masc|VerbForm=Part	4	acl	_	_
+14	ہویا	ہونا	AUX	_	VerbForm=Part	13	aux	_	_
+15	سی	ہونا	AUX	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+16	۔	۔	PUNCT	_	_	4	punct	_	_
+
+# sent_id = pa_rang-ud-train__4
+# original_text = لؤ ویکھو اس 'چتر' دی نکل:
+# transliteration = lo vekho is 'chitr' dī nakal:
+# gloss = look see.IMP this 'drawing' GEN copy
+# translation = Look, here is a copy of that drawing:
+# rtl = yes
+# text = لؤ ویکھو اس چتر دی نکل
+1	لؤ	لو	INTJ	_	_	2	discourse	_	_
+2	ویکھو	ویکھو	VERB	_	Aspect=Imp|Mood=Imp|VerbForm=Fin	0	root	_	_
+3	اس	اس	PRON	_	PronType=Dem	4	nmod	_	_
+4	چتر	چتر	NOUN	_	Number=Sing	6	nmod:poss	_	_
+5	دی	دی	ADP	_	_	4	case	_	_
+6	نکل	نکل	NOUN	_	Gender=Fem	2	obj	_	_
+
+# sent_id = pa_rang-ud-train__5
+# original_text = اس کتاب وچ انج لکھیا سی:
+# transliteration = is kitāb vic inj likhiā sī:
+# gloss = this book in thus written COP.PST
+# translation = In this book it was written as follows:
+# rtl = yes
+# text = اس کتاب وچ انج لکھیا سی
+1	اس	اس	PRON	_	PronType=Dem	2	det	_	_
+2	کتاب	کتاب	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	وچ	وچ	ADP	_	_	2	case	_	_
+4	انج	انج	ADV	_	_	5	advmod	_	_
+5	لکھیا	لکھنا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+6	سی	ہونا	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
+
+# sent_id = pa_rang-ud-train__6
+# original_text = اجگر آپنا شکار اکو وار بناں چتھے چبائے نگھل جاندے ہن۔
+# transliteration = ajgar āpnā shikār iko vār binā chitthe chabāe nighal jānde han.
+# gloss = boa own prey one time without chew bite swallow go.PRS be.PRS
+# translation = Boas swallow their prey in one piece without chewing.
+# rtl = yes
+# text = اجگر اپنا شکار اکو وار بناں چتھے چبائے نگھل جاندے ہن ۔
+1	اجگر	اجگر	NOUN	_	Gender=Masc	9	nsubj	_	_
+2	اپنا	اپنا	DET	_	PronType=Prs	3	det:poss	_	_
+3	شکار	شکار	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+4	اکو	اکو	NUM	_	NumType=Card	5	nummod	_	_
+5	وار	وار	NOUN	_	Number=Sing	9	obl	_	_
+6	بناں	بناں	ADP	_	_	8	case	_	_
+7	چتھے	چتھا	NOUN	_	Number=Plur	8	obj	_	_
+8	چبائے	چبانا	VERB	_	Aspect=Perf|VerbForm=Part	9	obl	_	_
+9	نگھل	نگھلنا	VERB	_	VerbForm=Part	0	root	_	_
+10	جاندے	ہونا	AUX	_	Gender=Masc|Number=Plur|VerbForm=Part	9	aux	_	_
+11	ہن	ہونا	AUX	_	Mood=Ind|Number=Plur|Tense=Pres	9	aux	_	_
+12	۔	۔	PUNCT	_	_	9	punct	_	_
+
+# sent_id = pa_rang-ud-train__7
+# original_text = اس توں بائد اہ ہل نہیں سکدے
+# transliteration = is tō̃ bāad uh hil nahī̃ sakde
+# gloss = this from after they move NEG can.PRS
+# translation = After that they cannot move.
+# rtl = yes
+# text = اس توں بعد اہ ہل نہیں سکدے
+1	اس	اس	PRON	_	Case=Abl|PronType=Dem	3	nmod	_	_
+2	توں	توں	ADP	_	_	3	case	_	_
+3	بعد	بعد	NOUN	_	Number=Sing	7	nmod	_	_
+4	اہ	اہ	PRON	_	Number=Plur|Person=3|PronType=Dem	7	nsubj	_	_
+5	ہل	ہل	VERB	_	VerbForm=Inf	7	xcomp	_	_
+6	نہیں	نہیں	PART	_	_	7	advmod	_	_
+7	سکدے	سکدا	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = pa_rang-ud-train__8
+# original_text = اتے اسنوں پچاؤن لئی چھ مہینے تکّ ستے رہندے ہن۔
+# transliteration = ate isnū̃ pachāuṇ laī chhe mahīne takk sute rehnde han.
+# gloss = and it.ACC digest INF six month until sleep stay.PRS be.PRS
+# translation = And they sleep for six months in order to digest it.
+# rtl = yes
+# text = اتے اسنوں پچاؤن لئی چھ مہینے تکّ ستے رہندے ہن ۔
+1	اتے	اتے	ADV	_	_	8	advmod	_	_
+2	اسنوں	اسنوں	PRON	_	Case=Acc|Person=3|PronType=Prs	3	obj	_	_
+3	پچاؤن	پچانا	VERB	_	VerbForm=Inf	8	obl	_	_
+4	لئی	لئی	ADP	_	_	3	case	_	_
+5	چھ	چھ	NUM	_	NumType=Card	6	nummod	_	_
+6	مہینے	مہینہ	NOUN	_	Gender=Masc|Number=Plur	8	obl:tmod	_	_
+7	تکّ	تک	ADP	_	_	6	case	_	_
+8	ستے	سونا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+9	رہندے	ہونا	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	8	xcomp	_	_
+10	ہن	ہونا	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+11	۔	۔	PUNCT	_	_	8	punct	_	_
+
+# sent_id = pa_rang-ud-train__9
+# original_text = پھر آپنی رنگدار پینسل تھوڑی بہت چلا کے آپنا پہلا چتر بناؤن وچ میں سپھل ہو گیا۔
+# transliteration = phir āpnī rangdār pensil thorhī bahut chalā ke āpnā pehlā chitr banāuṇ vic maĩ saphal ho gayā.
+# gloss = then own colored pencil little much move do.CVB own first drawing make.INF in I successful become.PST
+# translation = Then with my colored pencil I made a little effort and succeeded in drawing my first picture.
+# rtl = yes
+# text = پھر آپنی رنگدار پینسل تھوڑی بہت چلا کے آپنا پہلا چتر بناؤن وچ میں سپھل ہو گیا ۔
+1	پھر	پھر	ADV	_	_	17	advmod	_	_
+2	آپنی	اپنا	PRON	_	PronType=Prs	4	det:poss	_	_
+3	رنگدار	رنگدار	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+4	پینسل	پینسل	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+5	تھوڑی	تھوڑا	ADV	_	_	7	advmod	_	_
+6	بہت	بہت	ADV	_	_	7	advmod	_	_
+7	چلا	چلا	VERB	_	Aspect=Perf|VerbForm=Part	17	advcl	_	_
+8	کے	کے	ADP	_	_	7	mark	_	_
+9	آپنا	آپنا	DET	_	PronType=Prs	11	det:poss	_	_
+10	پہلا	پہلا	ADJ	_	Degree=Pos	11	amod	_	_
+11	چتر	چتر	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+12	بناؤن	بنانا	VERB	_	VerbForm=Inf	17	xcomp	_	_
+13	وچ	وچ	ADP	_	_	12	case	_	_
+14	میں	میں	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+15	سپھل	سپھل	ADJ	_	_	17	xcomp	_	_
+16	ہو	ہو	VERB	_	VerbForm=Part	17	compound	_	_
+17	گیا	گیا	VERB	_	_	0	root	_	_
+18	۔	۔	PUNCT	_	_	17	punct	_	_
+
+# sent_id = pa_rang-ud-train__10
+# original_text = میرا پہلا چتر کجھ انج دکھائی دندا سی۔
+# transliteration = merā pehlā chitr kujh inj dikhāī dindā sī.
+# gloss = my first drawing somewhat thus visible give.IPFV COP.PST
+# translation = My first drawing looked like this.
+# rtl = yes
+# text = میرا پہلا چتر کجھ انج دکھائی دندا سی ۔
+1	میرا	میرا	DET	_	PronType=Prs	3	det	_	_
+2	پہلا	پہلا	ADJ	_	Degree=Pos	3	amod	_	_
+3	چتر	چتر	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	کجھ	کجھ	ADV	_	_	7	advmod	_	_
+5	انج	انج	ADV	_	_	7	advmod	_	_
+6	دکھائی	دکھائی	NOUN	_	_	7	compound	_	_
+7	دندا	دینا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+8	سی	ہونا	AUX	_	Aspect=Imp|Mood=Ind|Tense=Past	7	aux	_	_
+9	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__11
+# original_text = میں آپنا شاہکار وڈیاں نوں دکھایا تے پچھیا کِ تہانوں اس توں ڈر لگدا ہے؟
+# transliteration = maĩ āpnā shāhkār vaḍiyā̃ nū̃ dikhāyā te puchhiā ki tahānū̃ is tō̃ ḍar lagdā hai?
+# gloss = I own masterpiece elders ACC show.PST and ask.PST that you.DAT this from fear feel.IPFV COP.PRS
+# translation = I showed my masterpiece to the grown-ups and asked if it frightened them.
+# rtl = yes
+# text = میں آپنا شاہکار وڈیاں نوں دکھایا تے پچھیا کِ تہانوں اس توں ڈر لگدا ہے ؟
+1	میں	میں	PRON	_	Number=Sing|PronType=Prs	6	nsubj	_	_
+2	آپنا	آپنا	DET	_	PronType=Prs	3	det	_	_
+3	شاہکار	شاہکار	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+4	وڈیاں	وڈا	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+5	نوں	نوں	ADP	_	_	4	case	_	_
+6	دکھایا	دکھایا	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+7	تے	تے	CCONJ	_	_	8	cc	_	_
+8	پچھیا	پچھنا	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	6	conj	_	_
+9	کِ	کِ	SCONJ	_	_	14	mark	_	_
+10	تہانوں	تہانوں	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	_
+11	اس	اس	PRON	_	PronType=Dem	14	obl	_	_
+12	توں	توں	ADP	_	_	11	case	_	_
+13	ڈر	ڈر	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	لگدا	لگنا	VERB	_	Aspect=Imp|VerbForm=Part	8	ccomp	_	_
+15	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	_
+16	؟	؟	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__12
+# original_text = انھاں دا اتر سی : “ڈر! بئی ہیٹ توں کون ڈردا ہے؟”
+# transliteration = unhā̃ dā uttar sī: "ḍar! bhai hēṭ tō̃ kaun ḍardā hai?"
+# gloss = they GEN reply COP.PST fear brother hat from who fear.IPFV COP.PRS
+# translation = They replied: “Frightened? Why should anyone be frightened by a hat?”
+# rtl = yes
+# text = انھاں دا اتر سی : ! '' ڈر بئی ہیٹ توں کون ڈردا ” ہے ؟
+1	انھاں	اوہ	PRON	_	Number=Plur|PronType=Prs	3	nmod:poss	_	_
+2	دا	دا	ADP	_	_	3	case	_	_
+3	اتر	اتر	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	سی	ہونا	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	_
+5	:	:	PUNCT	_	_	3	punct	_	_
+6	!	!	PUNCT	_	_	3	punct	_	_
+7	''	''	PUNCT	_	_	3	punct	_	_
+8	ڈر	ڈر	NOUN	_	Gender=Masc|Number=Sing	13	discourse	_	_
+9	بئی	بئی	INTJ	_	_	13	discourse	_	_
+10	ہیٹ	ہیٹ	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+11	توں	توں	ADP	_	_	10	case	_	_
+12	کون	کون	PRON	_	Number=Sing|PronType=Prs	13	nsubj	_	_
+13	ڈردا	ڈرنا	VERB	_	Aspect=Imp|VerbForm=Part	3	parataxis	_	_
+14	”	”	PUNCT	_	_	13	punct	_	_
+15	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
+16	؟	؟	PUNCT	_	_	13	punct	_	_
+
+# sent_id = pa_rang-ud-train__13
+# original_text = اسل وچ میرا چتر، ہیٹ دی تسویر نہیں سی۔
+# transliteration = asal vic merā chitr, hēṭ dī tasvīr nahī̃ sī.
+# gloss = truth in my drawing hat GEN picture NEG COP.PST
+# translation = But my drawing was not of a hat.
+# rtl = yes
+# text = اسل وچ میرا چتر ہیٹ دی تسویر نہیں سی ۔
+1	اسل	اسل	ADV	_	_	4	advmod	_	_
+2	وچ	وچ	ADP	_	_	4	case	_	_
+3	میرا	میرا	DET	_	PronType=Prs	4	det	_	_
+4	چتر	چتر	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	ہیٹ	ہیٹ	NOUN	_	Gender=Fem|Number=Sing	7	nmod:poss	_	_
+6	دی	دا	ADP	_	_	7	case	_	_
+7	تسویر	تسویر	NOUN	_	Number=Sing	0	root	_	_
+8	نہیں	نہیں	PART	_	_	7	advmod	_	_
+9	سی	ہونا	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+10	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__14
+# original_text = اہ تاں اجگر سی جو ہاتھی نوں پچا رہا سی۔
+# transliteration = eh tā̃ ajgar sī jo hāthī nū̃ pachā rihā sī.
+# gloss = this EMPH boa COP.PST REL elephant ACC digest PROG COP.PST
+# translation = It was a boa constrictor digesting an elephant.
+# rtl = yes
+# text = اہ تاں اجگر سی جو ہاتھی نوں پچا رہا سی ۔
+1	اہ	اہ	PRON	_	PronType=Dem	3	nsubj	_	_
+2	تاں	تاں	PART	_	_	3	discourse	_	_
+3	اجگر	اجگر	NOUN	_	_	0	root	_	_
+4	سی	ہونا	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+5	جو	جو	SCONJ	_	_	8	mark	_	_
+6	ہاتھی	ہاتھی	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+7	نوں	نوں	ADP	_	_	6	case	_	_
+8	پچا	پچا	VERB	_	Aspect=Perf|VerbForm=Part	3	acl:relcl	_	_
+9	رہا	رہا	VERB	_	VerbForm=Part	8	xcomp	_	_
+10	سی	ہونا	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
+11	۔	۔	PUNCT	_	_	3	punct	_	_
+
+# sent_id = pa_rang-ud-train__15
+# original_text = پر سیانے کیونکِ اہ سبھ کجھ نہیں سمجھرہے سن، اس لئی میں اک ہور چتر بنایا تاں کِ وڈے اس نوں ساف ساف دیکھ سکن۔
+# transliteration = par siyāne kiõki eh sab kujh nahī̃ samajh rahe san, is laī maĩ ik hor chitr banāyā tā̃ ki vaḍe is nū̃ sāf sāf dekh sakkan.
+# gloss = but elders because this all thing NEG understand PROG COP.PST so I one other drawing make.PST so that elders it ACC clear clear see can.SUBJ
+# translation = But since the grown-ups could not understand, I made another drawing so that they could see it clearly.
+# rtl = yes
+# text = پر سیانے کیونکِ اہ سبھ کجھ نہیں سمجھرہے ، سن اس لئی میں اک ہور چتر بنایا تاں کِ وڈے اس نوں ساف ساف دیکھ سکن -
+1	پر	پر	CCONJ	_	_	17	cc:preconj	_	_
+2	سیانے	سیانا	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
+3	کیونکِ	کیونکِ	SCONJ	_	_	2	mark	_	_
+4	اہ	اہ	PRON	_	PronType=Dem	8	nsubj	_	_
+5	سبھ	سبھ	DET	_	PronType=Ind	8	det	_	_
+6	کجھ	کجھ	PRON	_	PronType=Ind	8	obj	_	_
+7	نہیں	نہیں	PART	_	_	8	advmod	_	_
+8	سمجھرہے	سمجھرہے	VERB	_	VerbForm=Part	2	acl:relcl	_	_
+9	،	،	PUNCT	_	_	8	punct	_	_
+10	سن	سن	VERB	_	Mood=Ind|VerbForm=Fin	8	xcomp	_	_
+11	اس	اس	PRON	_	PronType=Dem	17	obl:arg	_	_
+12	لئی	لئی	ADP	_	_	11	case	_	_
+13	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+14	اک	اک	NUM	_	NumType=Card	16	nummod	_	_
+15	ہور	ہور	ADJ	_	Degree=Pos	16	amod	_	_
+16	چتر	چتر	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+17	بنایا	بنایا	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Part	0	root	_	_
+18	تاں	تاں	SCONJ	_	_	25	mark	_	_
+19	کِ	کِ	SCONJ	_	_	25	mark	_	_
+20	وڈے	وڈا	NOUN	_	Gender=Masc|Number=Plur	25	nsubj	_	_
+21	اس	اس	PRON	_	PronType=Dem	25	obj	_	_
+22	نوں	نوں	ADP	_	_	21	case	_	_
+23	ساف	ساف	ADV	_	_	25	advmod	_	_
+24	ساف	ساف	ADV	_	_	25	advmod	_	_
+25	دیکھ	دیکھ	VERB	_	VerbForm=Inf	17	advcl	_	_
+26	سکن	سکن	VERB	_	Mood=Ind|VerbForm=Fin	25	compound	_	_
+27	-	-	PUNCT	_	_	25	punct	_	_
+
+# sent_id = pa_rang-ud-train__16
+# original_text = اناں نوں ہر چیز سمجھاؤنی پیندی ہے۔
+# transliteration = anā̃ nū̃ har cīz samjhāuṇī paindī hai.
+# gloss = them ACC every thing explain.INF necessary COP.PRS
+# translation = Everything has to be explained to them.
+# rtl = yes
+# text = اناں نوں ہر چیز سمجھاؤنی پیندی ہے
+1	اناں	اناں	PRON	_	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+2	نوں	نوں	ADP	_	_	1	case	_	_
+3	ہر	ہر	DET	_	PronType=Ind	4	det	_	_
+4	چیز	چیز	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+5	سمجھاؤنی	سمجھاؤنا	VERB	_	VerbForm=Inf	0	root	_	_
+6	پیندی	پیندا	VERB	_	Aspect=Imp|VerbForm=Part	5	compound	_	_
+7	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+
+# sent_id = pa_rang-ud-train__17
+# original_text = میری دوجی ڈرائنگ کجھ انج دکھائی دندی سی۔
+# transliteration = merī dūjī ḍrāiṅg kujh inj dikhāī dindī sī.
+# gloss = my second drawing somewhat thus visible give.IPFV COP.PST
+# translation = My second drawing looked like this.
+# rtl = yes
+# text = میری دوجی ڈرائنگ کجھ انج دکھائی دندی سی ۔
+1	میری	میرا	DET	_	PronType=Prs	3	det	_	_
+2	دوجی	دوجا	ADJ	_	Degree=Pos	3	amod	_	_
+3	ڈرائنگ	ڈرائنگ	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	کجھ	کجھ	ADV	_	_	6	advmod	_	_
+5	انج	انج	ADV	_	_	6	advmod	_	_
+6	دکھائی	دکھائی	VERB	_	_	0	root	_	_
+7	دندی	دیندا	VERB	_	Aspect=Imp|VerbForm=Part	6	xcomp	_	_
+8	سی	ہونا	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	_
+9	۔	۔	PUNCT	_	_	6	punct	_	_
+
+# sent_id = pa_rang-ud-train__18
+# original_text = اس وار وڈیاں دا جواب اک سلاہ دے روپ وچ آیا کِ میں اجگراں دیاں تسویراں چھڈّ اتہاس، بھگول، ہساب تے ویاکرن دی پڑئی وچ لگ جاواں۔
+# transliteration = is vār vaḍiyā̃ dā javāb ik salah de rūp vic āyā ki maĩ ajgarā̃ diyā̃ tasvīrā̃ choṛ itihās bhugol ḥisāb te viyākaran dī paṛhāī vic lag jāvā̃.
+# gloss = this time elders GEN reply one advice GEN form in come.PST that I boas GEN pictures leave history geography arithmetic and grammar GEN study in engage go.SUBJ
+# translation = This time the grown-ups advised me to leave drawing boas and focus on history, geography, arithmetic, and grammar.
+# rtl = yes
+# text = اس وار وڈیاں دا جواب اک سلاہ دے روپ وچ آیا کِ میں اجگراں دیاں تسویراں چھڈّ ، اتہاس ، بھگول ہساب تے ویاکرن دی پڑئی وچ لگ جاواں ۔
+1	اس	اس	PRON	_	PronType=Dem	2	det	_	_
+2	وار	وار	NOUN	_	_	11	obl:tmod	_	_
+3	وڈیاں	وڈا	NOUN	_	Gender=Masc|Number=Plur	5	nmod:poss	_	_
+4	دا	دا	ADP	_	_	3	case	_	_
+5	جواب	جواب	NOUN	_	Gender=Masc	11	nsubj	_	_
+6	اک	اک	NUM	_	NumType=Card	7	nummod	_	_
+7	سلاہ	سلاہ	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+8	دے	دے	ADP	_	_	9	case	_	_
+9	روپ	روپ	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	وچ	وچ	ADP	_	_	7	case	_	_
+11	آیا	آیا	VERB	_	Aspect=Perf	0	root	_	_
+12	کِ	کِ	SCONJ	_	_	17	mark	_	_
+13	میں	میں	PRON	_	PronType=Prs	17	nsubj	_	_
+14	اجگراں	اجگر	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+15	دیاں	دیاں	ADP	_	_	14	case	_	_
+16	تسویراں	تسویر	NOUN	_	Gender=Fem|Number=Plur	14	nmod:poss	_	_
+17	چھڈّ	چھڈّ	VERB	_	VerbForm=Inf	11	ccomp	_	_
+18	،	،	PUNCT	_	_	19	punct	_	_
+19	اتہاس	اتہاس	NOUN	_	_	26	nmod	_	_
+20	،	،	PUNCT	_	_	21	punct	_	_
+21	بھگول	بھگول	NOUN	_	_	19	conj	_	_
+22	ہساب	ہساب	NOUN	_	_	19	conj	_	_
+23	تے	تے	CCONJ	_	_	24	cc	_	_
+24	ویاکرن	ویاکرن	NOUN	_	_	19	conj	_	_
+25	دی	دی	ADP	_	_	26	case	_	_
+26	پڑئی	پڑئی	VERB	_	_	28	obl	_	_
+27	وچ	وچ	ADP	_	_	26	case	_	_
+28	لگ	لگ	VERB	_	_	17	conj	_	_
+29	جاواں	جاواں	VERB	_	Mood=Ind|VerbForm=Fin	28	compound	_	_
+30	۔	۔	PUNCT	_	_	11	punct	_	_
+
+# sent_id = pa_rang-ud-train__19
+# original_text = اسے لئی میں چھ سال دی امر وچ ہی چترکار والا دھندا چھڈ دتا۔
+# transliteration = ise laī maĩ chhe sāl dī umur vic hī chitarkār vālā dhanda choṛ ditta.
+# gloss = this reason I six year GEN age in EMPH drawing GEN profession leave give.PST
+# translation = So at the age of six I gave up what might have been a magnificent career as a painter.
+# rtl = yes
+# text = اسے لئی میں چھ سال دی عمر وچ ہی چترکار والا دھندا چھڈ دتا ۔
+1	اسے	اسے	PRON	_	PronType=Prs	14	obl:arg	_	_
+2	لئی	لئی	ADP	_	_	1	case	_	_
+3	میں	میں	PRON	_	PronType=Prs	14	nsubj	_	_
+4	چھ	چھ	NUM	_	_	5	nummod	_	_
+5	سال	سال	NOUN	_	_	14	nmod:tmod	_	_
+6	دی	دی	ADP	_	_	5	case	_	_
+7	عمر	عمر	NOUN	_	_	5	nmod	_	_
+8	وچ	وچ	ADP	_	_	5	case	_	_
+9	ہی	ہی	PART	_	_	5	advmod	_	_
+10	چترکار	چترکار	NOUN	_	_	12	nmod	_	_
+11	والا	والا	ADJ	_	_	12	amod	_	_
+12	دھندا	دھندا	NOUN	_	_	14	obj	_	_
+13	چھڈ	چھڈ	VERB	_	Aspect=Perf	14	compound	_	_
+14	دتا	دینا	VERB	_	_	0	root	_	_
+15	۔	۔	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__20
+# original_text = پہلی اتے دوجی ڈرائنگ دی ناکامی نے میرا دل توڑ دتا۔
+# transliteration = pehlī atte dūjī ḍrāiṅg dī nākāmī ne merā dil ṭoṛ ditta.
+# gloss = first and second drawing GEN failure ERG my heart break give.PST
+# translation = The failure of my first and second drawings broke my heart.
+# rtl = yes
+# text = پہلی اتے دوجی ڈرائنگ دی ناکامی نے میرا دل توڑ دتا ۔
+1	پہلی	پہلا	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+2	اتے	اتے	CCONJ	_	_	3	cc	_	_
+3	دوجی	دوجا	ADJ	_	Degree=Pos|Gender=Fem	1	conj	_	_
+4	ڈرائنگ	ڈرائنگ	NOUN	_	Gender=Fem|Number=Sing	6	nmod:poss	_	_
+5	دی	دا	ADP	_	_	4	case	_	_
+6	ناکامی	ناکامی	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	نے	نے	ADP	_	_	6	case	_	_
+8	میرا	میرا	DET	_	PronType=Prs	9	det:poss	_	_
+9	دل	دل	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+10	توڑ	توڑ	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+11	دتا	دینا	VERB	_	_	10	compound	_	_
+12	۔	۔	PUNCT	_	_	10	punct	_	_
+
+# sent_id = pa_rang-ud-train__21
+# original_text = وڈیاں نوں آپنے آپ کجھ سمجھ آؤندا نہیں تے چھوٹیاں ولوں انھاں نوں ہر ویلے سمجھاؤندے رہنا بڑا مشکل ہندا ہے۔
+# transliteration = vaḍiyā̃ nū̃ āpne āp kujh samajh āuṇdā nahī̃ te choṭiyā̃ valō̃ unhā̃ nū̃ har vele samjhāuṇde rahṇā baṛā mushkil hundā hai.
+# gloss = elders DAT self nothing understand come.IPFV NEG and children by them ACC every time explain keep.INF very difficult COP.PRS
+# translation = Grown-ups never understand anything by themselves, and it is very tiresome for children to have to explain things to them all the time.
+# rtl = yes
+# text = وڈیاں نوں آپنے آپ کجھ سمجھ آؤندا نہیں تے چھوٹیاں ولوں انھاں نوں ہر ویلے سمجھاؤندے رہنا بڑا مشکل ہندا ہے -
+1	وڈیاں	وڈا	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+2	نوں	نوں	ADP	_	_	1	case	_	_
+3	آپنے	اپنا	DET	_	PronType=Prs	4	det	_	_
+4	آپ	آپ	PRON	_	PronType=Prs	6	obl	_	_
+5	کجھ	کجھ	PRON	_	PronType=Ind	6	obj	_	_
+6	سمجھ	سمجھ	VERB	_	VerbForm=Inf	7	xcomp	_	_
+7	آؤندا	آؤندا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+8	نہیں	نہیں	PART	_	_	7	advmod	_	_
+9	تے	تے	CCONJ	_	_	7	cc	_	_
+10	چھوٹیاں	چھوٹا	ADJ	_	Gender=Fem|Number=Plur	16	obl:agent	_	_
+11	ولوں	ولوں	ADP	_	Case=Abl	10	case	_	_
+12	انھاں	انھاں	PRON	_	Number=Plur|PronType=Prs	16	iobj	_	_
+13	نوں	نوں	ADP	_	_	12	case	_	_
+14	ہر	ہر	DET	_	PronType=Ind	15	det	_	_
+15	ویلے	ویلہ	NOUN	_	Gender=Fem|Number=Plur	16	obl:tmod	_	_
+16	سمجھاؤندے	سمجھاؤنا	VERB	_	VerbForm=Part	7	conj	_	_
+17	رہنا	رہنا	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	بڑا	بڑا	ADJ	_	Degree=Pos	19	amod	_	_
+19	مشکل	مشکل	NOUN	_	Gender=Masc|Number=Sing	16	xcomp	_	_
+20	ہندا	ہندا	VERB	_	Aspect=Imp|VerbForm=Part	19	xcomp	_	_
+21	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	_
+22	-	-	PUNCT	_	_	19	punct	_	_
+
+# sent_id = pa_rang-ud-train__22
+# original_text = اس لئی میں ہور کتا چن لیا اتے جہاز چلاؤنے سکھ لئے۔
+# transliteration = is laī maĩ hor kitā chun liā ate jahāz chalāuṇe sikh lae.
+# gloss = this reason I another profession choose take.PST and airplane fly.INF learn take.PST
+# translation = So I chose another profession and learned to fly airplanes.
+# rtl = yes
+# text = اس لئی میں ہور کتا چن لیا اتے جہاز چلاؤنے سکھ لئے ۔
+1	اس	اس	PRON	_	PronType=Dem	7	obl	_	_
+2	لئی	لیا	ADP	_	_	1	case	_	_
+3	میں	میں	PRON	_	Person=1|PronType=Prs	7	nsubj	_	_
+4	ہور	ہور	ADJ	_	Degree=Pos	5	amod	_	_
+5	کتا	کتا	NOUN	_	Number=Sing	7	obj	_	_
+6	چن	چن	VERB	_	Aspect=Perf|VerbForm=Part	7	compound	_	_
+7	لیا	لیا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+8	اتے	اتے	CCONJ	_	_	11	cc	_	_
+9	جہاز	جہاز	NOUN	_	Number=Sing	10	obj	_	_
+10	چلاؤنے	چلاؤنا	VERB	_	VerbForm=Inf	11	xcomp	_	_
+11	سکھ	سکھ	VERB	_	VerbForm=Part	7	conj	_	_
+12	لئے	لیا	VERB	_	Aspect=Perf|VerbForm=Part	11	compound	_	_
+13	۔	۔	PUNCT	_	_	11	punct	_	_
+
+# sent_id = pa_rang-ud-train__23
+# original_text = میں لگبھگ ساری دنیا دے اپروں تھوڑا بہت جہاز چلایا ہے۔
+# transliteration = maĩ lagbhag sārī duniyā de upron thorhā bohat jahāz chalāyā hai.
+# gloss = I almost whole world GEN above little much airplane fly.PST COP.PRS
+# translation = I have flown a little over almost all parts of the world.
+# rtl = yes
+# text = میں لگبھگ ساری دنیا دے اپروں تھوڑا بہت جہاز چلایا ہے ۔
+1	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+2	لگبھگ	لگبھگ	ADV	_	_	4	advmod	_	_
+3	ساری	سارا	DET	_	PronType=Ind	4	det	_	_
+4	دنیا	دنیا	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+5	دے	دا	ADP	_	_	4	case	_	_
+6	اپروں	اوپر	ADP	_	_	4	case	_	_
+7	تھوڑا	تھوڑا	ADV	_	_	10	advmod	_	_
+8	بہت	بہت	ADV	_	_	10	advmod	_	_
+9	جہاز	جہاز	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+10	چلایا	چلایا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+11	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
+12	۔	۔	PUNCT	_	_	10	punct	_	_
+
+# sent_id = pa_rang-ud-train__24
+# original_text = اہ بھی سوچ ہے کِ اس کوم وچ بھگول دی جانکاری نے میری مدد کیتی۔
+# transliteration = eh vī soc hai ki is kaum vic bhugol dī jānkārī ne merī madad kītī.
+# gloss = this also thought COP.PRS that this profession in geography GEN knowledge ERG my help do.PST
+# translation = And it is true that geography has been very useful to me.
+# rtl = yes
+# text = اہ بھی سوچ ہے کِ اس کوم وچ بھگول دی جانکاری نے میری مدد کیتی ۔
+1	اہ	اہ	PRON	_	PronType=Dem	3	nsubj	_	_
+2	بھی	بھی	PART	_	_	3	discourse	_	_
+3	سوچ	سوچ	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	کِ	کِ	SCONJ	_	_	15	mark	_	_
+6	اس	اس	DET	_	PronType=Dem	7	det	_	_
+7	کوم	کوم	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+8	وچ	وچ	ADP	_	_	7	case	_	_
+9	بھگول	بھگول	NOUN	_	Gender=Masc|Number=Sing	11	nmod:poss	_	_
+10	دی	دی	ADP	_	_	9	case	_	_
+11	جانکاری	جانکاری	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+12	نے	نے	ADP	_	_	11	case	_	_
+13	میری	میرا	DET	_	PronType=Prs	14	det	_	_
+14	مدد	مدد	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+15	کیتی	کیتی	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+16	۔	۔	PUNCT	_	_	3	punct	_	_
+
+# sent_id = pa_rang-ud-train__25
+# original_text = دیکھدے سار ہی میں دس سکدا ہاں کِ اہ چین ہے کِ ایریزونا۔
+# transliteration = dekhde sārahī maĩ das sakdā hā̃ ki eh Cheen hai ki Arizona.
+# gloss = seeing immediately I tell can.PRS COP.PRS that this China COP.PRS or Arizona
+# translation = I can tell at a glance whether I am in China or in Arizona.
+# rtl = yes
+# text = دیکھدے سار ہی میں دس سکدا ہاں کِ اہ چین ہے کِ ایریزونا ۔
+1	دیکھدے	دیکھدا	VERB	_	Aspect=Imp|VerbForm=Part	6	advcl	_	_
+2	سار	سار	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	ہی	ہی	PART	_	_	1	discourse	_	_
+4	میں	میں	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	دس	دس	VERB	_	VerbForm=Inf	6	xcomp	_	_
+6	سکدا	سکدا	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin	0	root	_	_
+7	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	کِ	کِ	SCONJ	_	_	13	cc	_	_
+9	اہ	اہ	PRON	_	PronType=Dem	13	nsubj	_	_
+10	چین	چین	PROPN	_	_	13	xcomp	_	_
+11	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	کِ	کِ	SCONJ	_	_	13	mark	_	_
+13	ایریزونا	ایریزونا	PROPN	_	_	6	ccomp	_	_
+14	۔	۔	PUNCT	_	_	6	punct	_	_
+
+# sent_id = pa_rang-ud-train__26
+# text = جیکر رات ویلے کوئی بھٹک جاوے تاں اس ویلے اجہا گیان بڑا وڈملا ساہب ہندا ہے ۔
+# original_text = جیکر رات ویلے کوئی بھٹک جاوے تاں اس ویلے اجہا گیان بڑا وڈملا ساہب ہندا ہے۔
+# transliteration = jekar rāt vele koī bhaṭak jāve tā̃ us vele ajhā giān baṛā vaḍ-mullā sāhib hundā hai.
+# gloss = if night time someone stray go.SUBJ then that time such knowledge very valuable master COP.PRS
+# translation = If someone gets lost at night, such knowledge is very valuable.
+# rtl = yes
+1	جیکر	جیکر	SCONJ	_	_	5	mark	_	_
+2	رات	رات	NOUN	_	Gender=Fem|Number=Sing	5	obl:tmod	_	_
+3	ویلے	ویلہ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+4	کوئی	کوئی	PRON	_	PronType=Ind	5	nsubj	_	_
+5	بھٹک	بھٹک	VERB	_	Aspect=Perf|VerbForm=Part	14	advcl	_	_
+6	جاوے	جاوے	VERB	_	Mood=Ind|VerbForm=Fin	5	compound	_	_
+7	تاں	تاں	SCONJ	_	_	14	mark	_	_
+8	اس	اس	DET	_	PronType=Dem	9	det	_	_
+9	ویلے	ویلہ	NOUN	_	Gender=Masc|Number=Sing	14	obl:tmod	_	_
+10	اجہا	اجہا	ADJ	_	_	11	amod	_	_
+11	گیان	گیان	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+12	بڑا	بڑا	ADJ	_	Degree=Pos	11	amod	_	_
+13	وڈملا	وڈملا	ADJ	_	_	11	amod	_	_
+14	ساہب	ساہب	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+15	ہندا	ہونا	AUX	_	Aspect=Imp|VerbForm=Part	14	aux	_	_
+16	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	_
+17	۔	۔	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__27
+# original_text = اس سارے جیون وچ میرا بہت سارا واہ انہاں لوکاں نال پیا جو متلب دیاں گلاں نال ہی متلب رکھدے ہن۔
+# transliteration = is sāre jīvan vic merā bohat sārā vāh unhā̃ lokā̃ nāl piā jo matlab diyā̃ galā̃ nāl hī matlab rakhde han.
+# gloss = this whole life in my much dealing those people with happen.PST who meaning GEN matters with only concern keep.IPFV COP.PRS
+# translation = Throughout my life I have had a lot of dealings with people concerned only with matters of consequence.
+# rtl = yes
+# text = اس سارے جیون وچ میرا بہت سارا واہ انہاں لوکاں نال پیا جو متلب دیاں گلاں نال ہی متلب رکھدے ہن ۔
+1	اس	اس	DET	_	PronType=Dem	3	det	_	_
+2	سارے	سارا	DET	_	PronType=Ind	3	det	_	_
+3	جیون	جیون	NOUN	_	Gender=Masc|Number=Sing	12	obl:tmod	_	_
+4	وچ	وچ	ADP	_	_	3	case	_	_
+5	میرا	میرا	DET	_	PronType=Prs	8	det	_	_
+6	بہت	بہت	DET	_	PronType=Ind	8	det	_	_
+7	سارا	سارا	ADJ	_	Degree=Pos	8	amod	_	_
+8	واہ	واہ	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+9	انہاں	انہاں	DET	_	PronType=Dem	10	det	_	_
+10	لوکاں	لوک	NOUN	_	Number=Plur	12	obl	_	_
+11	نال	نال	ADP	_	_	10	case	_	_
+12	پیا	پیا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+13	جو	جو	PRON	_	PronType=Rel	20	nsubj	_	_
+14	متلب	متلب	NOUN	_	Gender=Masc|Number=Sing	16	nmod:poss	_	_
+15	دیاں	دیاں	ADP	_	_	16	case	_	_
+16	گلاں	گل	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+17	نال	نال	ADP	_	_	16	case	_	_
+18	ہی	ہی	PART	_	_	20	discourse	_	_
+19	متلب	متلب	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
+20	رکھدے	رکھدا	VERB	_	Aspect=Imp|VerbForm=Part	10	acl:relcl	_	_
+21	ہن	ہونا	AUX	_	_	20	aux	_	_
+22	۔	۔	PUNCT	_	_	12	punct	_	_
+
+# sent_id = pa_rang-ud-train__28
+# original_text = میں بڑی دیر سیانے لوکاں وچ رہا ہاں اتے انھاں نوں بڑے نیڑے ہو کے وی تکیا ہے۔
+# transliteration = maĩ baṛī der siyāne lokā̃ vic rihā hā̃ ate unhā̃ nū̃ baṛe neṛe ho ke vī tikhiyā hai.
+# gloss = I long time wise people among live.PFV COP.PRS and them ACC very near be.CVB also see.PFV COP.PRS
+# translation = I have lived a long time among the grown-ups, and have observed them closely.
+# rtl = yes
+# text = میں بڑی دیر سیانے لوکاں وچ رہا ہاں اتے انھاں نوں بڑے نیڑے ہو کے وی تکیا ہے ۔
+1	میں	میں	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+2	بڑی	بڑا	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	دیر	دیر	NOUN	_	Gender=Fem	7	obl:tmod	_	_
+4	سیانے	سیانا	ADJ	_	Degree=Pos|Number=Plur	5	amod	_	_
+5	لوکاں	لوک	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+6	وچ	وچ	ADP	_	_	5	case	_	_
+7	رہا	رہا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+8	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+9	اتے	اتے	CCONJ	_	_	17	cc	_	_
+10	انھاں	انھاں	PRON	_	Number=Plur|PronType=Prs	17	obj	_	_
+11	نوں	نوں	ADP	_	_	10	case	_	_
+12	بڑے	بڑا	ADJ	_	Degree=Pos	13	amod	_	_
+13	نیڑے	نیڑے	ADV	_	_	17	advmod	_	_
+14	ہو	ہو	VERB	_	VerbForm=Inf	17	advcl	_	_
+15	کے	کے	SCONJ	_	_	14	mark	_	_
+16	وی	وی	PART	_	_	14	discourse	_	_
+17	تکیا	تکیا	VERB	_	Aspect=Perf|VerbForm=Part	7	conj	_	_
+18	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	_
+19	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__29
+# original_text = پر پھر بھی انھاں بارے میری رائ وچ کوئی بدلاء نہیں آیا۔
+# transliteration = par phir vī unhā̃ bāre merī rāe vic koī badlāv nahī̃ āyā.
+# gloss = but still them about my opinion in any change NEG come.PST
+# translation = But that has not much improved my opinion of them.
+# rtl = yes
+# text = پر پھر بھی انھاں بارے میری رائ وچ کوئی بدلاء نہیں آیا ۔
+1	پر	پر	CCONJ	_	_	12	discourse	_	_
+2	پھر	پھر	ADV	_	_	12	advmod	_	_
+3	بھی	بھی	PART	_	_	12	discourse	_	_
+4	انھاں	انھاں	PRON	_	Number=Plur|PronType=Prs	10	nmod	_	_
+5	بارے	بارے	ADP	_	_	4	case	_	_
+6	میری	میرا	DET	_	PronType=Prs	7	det:poss	_	_
+7	رائ	رائے	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+8	وچ	وچ	ADP	_	_	7	case	_	_
+9	کوئی	کوئی	DET	_	PronType=Ind	10	det	_	_
+10	بدلاء	بدلاء	NOUN	_	_	12	nsubj	_	_
+11	نہیں	نہیں	PART	_	_	12	advmod	_	_
+12	آیا	آیا	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+13	۔	۔	PUNCT	_	_	12	punct	_	_
+
+# sent_id = pa_rang-ud-train__30
+# original_text = جدوں کدے انھاں وچو مینوں کوئی سپسٹ نزریئے والا جاپدا ہے،
+# transliteration = jadō̃ kade unhā̃ vicõ mainū̃ koī spasṭ nazariye vālā jāpda hai,
+# gloss = when sometimes them among me.DAT some clear vision having appear.IPFV COP.PRS
+# translation = Whenever I come across one who seems to have a clearer vision,
+# rtl = yes
+# text = جدوں کدے انھاں وچو مینوں کوئی سپسٹ نزریئے والا جاپدا ہے
+1	جدوں	جدوں	SCONJ	_	_	10	mark	_	_
+2	کدے	کدے	ADV	_	_	10	advmod	_	_
+3	انھاں	انھاں	PRON	_	Number=Plur|PronType=Prs	10	obl	_	_
+4	وچو	وچ	ADP	_	_	3	case	_	_
+5	مینوں	مینوں	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+6	کوئی	کوئی	DET	_	PronType=Ind	9	det	_	_
+7	سپسٹ	سپسٹ	ADJ	_	Degree=Pos	9	amod	_	_
+8	نزریئے	نظریہ	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+9	والا	والا	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	جاپدا	جاپدا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+11	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
+
+# sent_id = pa_rang-ud-train__31
+# original_text = میں اسنوں آپنی پہلی ڈرائنگ (جو میں سدا آپنے نال رکھدا ہاں) دکھاؤن دا تزربا کردا ہاں۔
+# transliteration = maĩ isnū̃ āpnī pehlī ḍrāiṅg (jo maĩ sadā āpne nāl rakhdā hā̃) dikhāuṇ dā tajurba kardā hā̃.
+# gloss = I him.ACC own first drawing (REL I always own with keep.IPFV COP.PRS) show.INF GEN attempt do.IPFV COP.PRS
+# translation = I try showing him my Drawing Number One, which I always keep with me.
+# rtl = yes
+# text = میں اسنوں آپنی پہلی ڈرائنگ ( جو میں سدا آپنے نال رکھدا ہاں ) دکھاؤن دا تزربا کردا ہاں ۔
+1	میں	میں	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+2	اسنوں	اسنوں	PRON	_	Person=3|PronType=Prs|Reflex=Yes	18	iobj	_	_
+3	آپنی	اپنا	PRON	_	Poss=Yes|PronType=Prs|Reflex=Yes	5	det:poss	_	_
+4	پہلی	پہلا	ADJ	_	Degree=Pos	5	amod	_	_
+5	ڈرائنگ	ڈرائنگ	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+6	(	(	PUNCT	_	_	5	punct	_	_
+7	جو	جو	PRON	_	PronType=Rel	12	obj	_	_
+8	میں	میں	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+9	سدا	سدا	ADV	_	_	12	advmod	_	_
+10	آپنے	اپنا	PRON	_	PronType=Prs|Reflex=Yes	12	obl	_	_
+11	نال	نال	ADP	_	_	10	case	_	_
+12	رکھدا	رکھدا	VERB	_	Aspect=Imp|VerbForm=Part	5	acl:relcl	_	_
+13	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	_
+14	)	)	PUNCT	_	_	5	punct	_	_
+15	دکھاؤن	دکھاؤنا	VERB	_	VerbForm=Inf	17	nmod:poss	_	_
+16	دا	دا	ADP	_	_	15	case	_	_
+17	تزربا	تزربا	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+18	کردا	کردا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+19	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
+20	۔	۔	PUNCT	_	_	18	punct	_	_
+
+# sent_id = pa_rang-ud-train__32
+# original_text = میں اہ دیکھن دی کوشش کردا ہاں کِ اہ بندا سچمچ سہیہ سوچ دا مالک ہے۔
+# transliteration = maĩ eh vekhan dī koshish kardā hā̃ ki eh bandā sachmuch sahī soch dā mālik hai.
+# gloss = I this see.INF GEN effort do.IPFV COP.PRS that this man really correct thought GEN owner COP.PRS
+# translation = I try to find out if this man really has true understanding.
+# rtl = yes
+# text = میں اہ دیکھن دی کوشش کردا ہاں کِ اہ بندا سچمچ سہیہ سوچ دا مالک ہے ۔
+1	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	اہ	اہ	PRON	_	PronType=Dem	3	obj	_	_
+3	دیکھن	دیکھن	VERB	_	VerbForm=Inf	5	nmod:poss	_	_
+4	دی	دا	ADP	_	_	3	case	_	_
+5	کوشش	کوشش	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+6	کردا	کردا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+7	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	کِ	کِ	SCONJ	_	_	15	mark	_	_
+9	اہ	اہ	DET	_	PronType=Dem	10	det	_	_
+10	بندا	بندا	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	سچمچ	سچمچ	ADV	_	_	15	advmod	_	_
+12	سہیہ	صحیح	ADJ	_	Degree=Pos	13	amod	_	_
+13	سوچ	سوچ	NOUN	_	_	15	nmod	_	_
+14	دا	دا	ADP	_	_	13	case	_	_
+15	مالک	مالک	NOUN	_	Gender=Masc|Number=Sing	6	acl	_	_
+16	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	_
+17	۔	۔	PUNCT	_	_	6	punct	_	_
+
+# sent_id = pa_rang-ud-train__33
+# original_text = پر جے اہ جو کجھ مرزی ہندیا ہویاں وی اہ کہندا ہے کِ اہ اک ہیٹ ہے۔
+# transliteration = par je eh jo kujh marzī hundiā hoyā̃ vī eh kahndā hai ki eh ik hēṭ hai.
+# gloss = but if he whatever may.be being even he say.IPFV COP.PRS that this one hat COP.PRS
+# translation = But if he says, whatever it may be, “That is a hat,”
+# rtl = yes
+# text = پر جے اہ جو کجھ مرزی ہندیا ہویاں وی اہ کہندا ہے کِ اہ اک ہیٹ ہے ۔
+1	پر	پر	CCONJ	_	_	11	discourse	_	_
+2	جے	جے	SCONJ	_	_	7	mark	_	_
+3	اہ	اہ	PRON	_	PronType=Dem	7	nsubj	_	_
+4	جو	جو	DET	_	PronType=Rel	5	det	_	_
+5	کجھ	کجھ	PRON	_	PronType=Ind	7	obj	_	_
+6	مرزی	مرزی	ADV	_	_	7	advmod	_	_
+7	ہندیا	ہندیا	VERB	_	Aspect=Imp|VerbForm=Part	11	advcl	_	_
+8	ہویاں	ہونا	AUX	_	_	7	aux	_	_
+9	وی	وی	PART	_	_	7	discourse	_	_
+10	اہ	اہ	PRON	_	PronType=Dem	11	nsubj	_	_
+11	کہندا	کہندا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+12	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Inf	11	aux	_	_
+13	کِ	کِ	SCONJ	_	_	16	mark	_	_
+14	اہ	اہ	PRON	_	PronType=Dem	16	nsubj	_	_
+15	اک	اک	NUM	_	NumType=Card	16	nummod	_	_
+16	ہیٹ	ہیٹ	NOUN	_	Gender=Fem|Number=Sing	11	ccomp	_	_
+17	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
+18	۔	۔	PUNCT	_	_	11	punct	_	_
+
+# sent_id = pa_rang-ud-train__34
+# original_text = تاں میں اس نال اجگراں، پراتن جنگلاں جاں تاریاں بارے کوئی گل نہیں کردا۔
+# transliteration = tā̃ maĩ is nāl ajgarā̃, parātan jangalā̃ jā̃ tārīā̃ bāre koī gal nahī̃ kardā.
+# gloss = then I him with boas ancient forests or stars about any talk NEG do.IPFV
+# translation = Then I do not talk to him about boas, ancient forests, or stars.
+# rtl = yes
+# text = تاں میں اس نال ، جگراں پراتن جنگلاں جاں تاریاں بارے کوئی گل نہیں کردا ۔
+1	تاں	تاں	SCONJ	_	_	15	mark	_	_
+2	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+3	اس	اس	PRON	_	PronType=Dem	15	obl	_	_
+4	نال	نال	ADP	_	_	3	case	_	_
+5	،	،	PUNCT	_	_	6	punct	_	_
+6	جگراں	جگرا	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+7	پراتن	پراتن	ADJ	_	Degree=Pos	8	amod	_	_
+8	جنگلاں	جنگل	NOUN	_	_	6	conj	_	_
+9	جاں	جاں	CCONJ	_	_	8	cc	_	_
+10	تاریاں	تارا	NOUN	_	_	8	conj	_	_
+11	بارے	بارے	ADP	_	_	8	case	_	_
+12	کوئی	کوئی	DET	_	PronType=Ind	13	det	_	_
+13	گل	گل	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+14	نہیں	نہیں	PART	_	_	13	advmod	_	_
+15	کردا	کردا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+16	۔	۔	PUNCT	_	_	15	punct	_	_
+
+# sent_id = pa_rang-ud-train__35
+# original_text = اس نال میں 'برجّ'، گول راجنیتی تے نیکٹائیاں دیاں گلاں کرن لگ پیندا ہاں۔
+# transliteration = is nāl maĩ 'baraj', gol rājnītī te nekatāiyā̃ diyā̃ galā̃ karan lag paindā hā̃.
+# gloss = him with I bridge round politics and neckties GEN talks do.INF begin fall.IPFV COP.PRS
+# translation = Instead, I talk to him about bridge, politics, and neckties.
+# rtl = yes
+# text = اس نال میں برجّ گول راجنیتی تے نیکٹائیاں دیاں گلاں کرن لگ پیندا ہاں ۔
+1	اس	اس	PRON	_	PronType=Dem	13	obl	_	_
+2	نال	نال	ADP	_	_	1	case	_	_
+3	میں	میں	PRON	_	Number=Sing|PronType=Prs	13	nsubj	_	_
+4	برجّ	برجّ	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+5	گول	گول	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+6	راجنیتی	راجنیتی	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	تے	تے	CCONJ	_	_	8	cc	_	_
+8	نیکٹائیاں	نیکٹائی	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+9	دیاں	دیاں	ADP	_	_	8	case	_	_
+10	گلاں	گل	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
+11	کرن	کرن	VERB	_	VerbForm=Inf	13	xcomp	_	_
+12	لگ	لگ	VERB	_	Aspect=Imp|VerbForm=Part	11	xcomp	_	_
+13	پیندا	پیندا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+14	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
+15	۔	۔	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__36
+# original_text = اس تراں سیانے لوک بہت خوش ہندے کِ انھاں نوں کنا سمجھدار بیدا ملیا ہے۔
+# transliteration = is tarā̃ siyāne lok bohat khush hunde ki unhā̃ nū̃ kinā samajhdār vyakti miliā hai.
+# gloss = this way wise people very happy COP.PRS that them DAT such intelligent person meet.PST COP.PRS
+# translation = And the grown-ups are glad to have met such a sensible man.
+# rtl = yes
+# text = اس تراں سیانے لوک بہت خوش ہندے کِ انھاں نوں کنا سمجھدار بیدا ملیا ہے ۔
+1	اس	اس	PRON	_	PronType=Dem	2	det	_	_
+2	تراں	تراں	ADV	_	_	6	advmod	_	_
+3	سیانے	سیانا	ADJ	_	Degree=Pos	4	amod	_	_
+4	لوک	لوک	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	بہت	بہت	ADV	_	_	6	advmod	_	_
+6	خوش	خوش	ADJ	_	Degree=Pos	0	root	_	_
+7	ہندے	ہندا	VERB	_	Aspect=Imp|VerbForm=Part	6	xcomp	_	_
+8	کِ	کِ	SCONJ	_	_	14	mark	_	_
+9	انھاں	انھاں	PRON	_	Number=Plur|PronType=Prs	14	iobj	_	_
+10	نوں	نوں	ADP	_	_	9	case	_	_
+11	کنا	کنا	ADV	_	_	13	advmod	_	_
+12	سمجھدار	سمجھدار	ADJ	_	Degree=Pos	13	amod	_	_
+13	بیدا	بیدا	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	ملیا	ملیا	VERB	_	Aspect=Perf|VerbForm=Part	6	ccomp	_	_
+15	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	_
+16	۔	۔	PUNCT	_	_	6	punct	_	_
+
+# sent_id = pa_rang-ud-train__37
+# original_text = اَجے تکّ مینوں کوئی اجہا وئکتی نہیں سی ملیا جس نال میں کھلّ کے گل کر سکیا ہوواں۔
+# transliteration = aje takk mainū̃ koī ajhā vyakti nahī̃ sī miliā jis nāl maĩ khull ke gal kar sakiā hovā̃.
+# gloss = until now me.DAT any such person NEG COP.PST meet.PFV REL with I openly talk do can.PFV be.SUBJ
+# translation = Up until now I have never met anyone with whom I could talk openly.
+# rtl = yes
+# text = اَجے تکّ مینوں کوئی اجہا وئکتی نہیں سی ملیا جس نال میں کھلّ کے گل کر سکیا ہوواں ۔
+1	اَجے	اَجے	ADV	_	_	9	advmod	_	_
+2	تکّ	تکّ	ADV	_	_	9	advmod	_	_
+3	مینوں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+4	کوئی	کوئی	DET	_	PronType=Ind	6	det	_	_
+5	اجہا	اجہا	ADJ	_	_	6	amod	_	_
+6	وئکتی	وئکتی	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	نہیں	نہیں	PART	_	_	9	advmod	_	_
+8	سی	ہونا	AUX	_	_	9	aux	_	_
+9	ملیا	ملنا	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+10	جس	جس	PRON	_	PronType=Rel	16	obl	_	_
+11	نال	نال	ADP	_	_	16	case	_	_
+12	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+13	کھلّ	کھلّ	ADV	_	_	16	advcl	_	_
+14	کے	کے	ADP	_	_	13	mark	_	_
+15	گل	گل	NOUN	_	_	16	obj	_	_
+16	کر	کر	VERB	_	_	6	acl:relcl	_	_
+17	سکیا	سکنا	VERB	_	_	16	compound	_	_
+18	ہوواں	ہونا	AUX	_	_	16	aux	_	_
+19	۔	۔	PUNCT	_	_	9	punct	_	_
+
+# sent_id = pa_rang-ud-train__38
+# original_text = اس لئی میں اونی دیر تکّ آپنی زندگی اکلے ہی گزاری،
+# transliteration = is laī maĩ onī der takk āpnī zindagī akale hī guzārī,
+# gloss = this reason I that long until own life alone EMPH spend.PST
+# translation = So I lived alone for a very long time.
+# rtl = yes
+# text = اس لئی میں اونی دیر تکّ آپنی زندگی اکلے ہی گزاری
+1	اس	اس	PRON	_	PronType=Dem	11	obl:arg	_	_
+2	لئی	لئی	ADP	_	_	1	mark	_	_
+3	میں	میں	PRON	_	PronType=Prs	11	nsubj	_	_
+4	اونی	اونی	DET	_	PronType=Prs	5	det	_	_
+5	دیر	دیر	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+6	تکّ	تکّ	ADP	_	_	5	case	_	_
+7	آپنی	آپنا	PRON	_	PronType=Prs	8	det	_	_
+8	زندگی	زندگی	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+9	اکلے	اکیلا	ADV	_	_	11	advmod	_	_
+10	ہی	ہی	ADV	_	_	9	discourse	_	_
+11	گزاری	گزارا	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = pa_rang-ud-train__39
+# original_text = جدوں تک اج توں چھ سال پہلاں میرے ہوائی جہاز دا ساہارا دے ریگستان وچ حادثہ نہیں سی ہویا۔
+# transliteration = jadō̃ takk aj tō̃ chhe sāl pahlā̃ mere havāī jahāz dā Sāhārā de registān vic hādsa nahī̃ sī hoiā.
+# gloss = until today from six year before my airplane GEN Sahara GEN desert in accident NEG COP.PST happen.PFV
+# translation = That was until six years ago, when my airplane had an accident in the Sahara Desert.
+# rtl = yes
+# text = جدوں تک اج توں چھ سال پہلاں میرے ہوائی جہاز دا ساہارا دے ریگستان وچ حادثہ نہیں سی ہویا ۔
+1	جدوں	جد	SCONJ	_	_	19	mark	_	_
+2	تک	تک	ADV	_	_	19	advmod	_	_
+3	اج	اج	NOUN	_	_	19	obl	_	_
+4	توں	توں	ADP	_	_	3	case	_	_
+5	چھ	چھ	NUM	_	NumType=Card	6	nummod	_	_
+6	سال	سال	NOUN	_	_	19	obl:tmod	_	_
+7	پہلاں	پہلا	ADV	_	_	6	advmod	_	_
+8	میرے	میرا	PRON	_	PronType=Prs	10	det	_	_
+9	ہوائی	ہوائی	ADJ	_	_	16	amod	_	_
+10	جہاز	جہاز	NOUN	_	Gender=Masc|Number=Sing	16	nmod:poss	_	_
+11	دا	دا	ADP	_	_	10	case	_	_
+12	ساہارا	ساہارا	NOUN	_	_	14	nmod:poss	_	_
+13	دے	دا	ADP	_	_	14	case	_	_
+14	ریگستان	ریگستان	NOUN	_	_	16	nmod	_	_
+15	وچ	وچ	ADP	_	_	14	case	_	_
+16	حادثہ	حادثہ	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_
+17	نہیں	نہیں	PART	_	_	19	advmod	_	_
+18	سی	ہونا	AUX	_	Mood=Ind	19	aux	_	_
+19	ہویا	ہونا	VERB	_	Mood=Ind	0	root	_	_
+20	۔	۔	PUNCT	_	_	19	punct	_	_
+
+# sent_id = pa_rang-ud-train__40
+# original_text = ادوں میرے انجن دا کوئی پرزا ٹٹّ گیا سی۔
+# transliteration = udō̃ mere injan dā koī purzā ṭuṭ gayā sī.
+# gloss = then my engine GEN some part break go.PST COP.PST
+# translation = Something had broken in my engine.
+# rtl = yes
+# text = ادوں میرے انجن دا کوئی پرزا ٹٹّ گیا سی ۔
+1	ادوں	ادوں	ADV	_	_	7	advmod	_	_
+2	میرے	میرا	PRON	_	Number=Sing|Person=1|PronType=Prs	3	det:poss	_	_
+3	انجن	انجن	NOUN	_	Gender=Masc|Number=Sing	6	nmod:poss	_	_
+4	دا	دا	ADP	_	_	3	case	_	_
+5	کوئی	کوئی	PRON	_	PronType=Ind	6	det	_	_
+6	پرزا	پرزا	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	ٹٹّ	ٹٹّ	VERB	_	Gender=Masc|Number=Sing	0	root	_	_
+8	گیا	گیا	VERB	_	_	7	compound	_	_
+9	سی	ہونا	AUX	_	Mood=Ind|Number=Sing|Tense=Past	7	aux	_	_
+10	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__41
+# original_text = اس سمیں میرے نال نا کوئی مکینک سی تے نا ہی کوئی یاترو،
+# transliteration = us samẽ mere nāl nā koī mikenik sī te nā hī koī yātrū,
+# gloss = that time my with neither any mechanic COP.PST and nor any passenger
+# translation = At that time there was with me neither a mechanic nor a passenger,
+# rtl = yes
+# text = اس سمیں میرے نال نا کوئی مکینک سی تے نا ہی کوئی یاترو
+1	اس	اس	DET	_	PronType=Dem	2	det	_	_
+2	سمیں	سمیں	NOUN	_	_	7	obl:tmod	_	_
+3	میرے	میرا	PRON	_	Number=Sing|PronType=Prs	7	obl	_	_
+4	نال	نال	ADP	_	_	3	case	_	_
+5	نا	نہ	PART	_	_	7	advmod	_	_
+6	کوئی	کوئی	DET	_	PronType=Ind	7	det	_	_
+7	مکینک	مکینک	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	سی	ہونا	AUX	_	Mood=Ind|Tense=Past	7	cop	_	_
+9	تے	تے	CCONJ	_	_	8	cc	_	_
+10	نا	نہ	PART	_	_	13	advmod	_	_
+11	ہی	ہی	PART	_	_	13	discourse	_	_
+12	کوئی	کوئی	DET	_	PronType=Ind	13	det	_	_
+13	یاترو	یاترو	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+
+# sent_id = pa_rang-ud-train__42
+# original_text = اسلئی مرمت دا مشکل کمّ میں آپے ہی کرنا شرو کر دتا۔
+# transliteration = is laī marammat dā mushkil kam maĩ āpe hī karnā shurū kar ditta.
+# gloss = this reason repair GEN difficult work I self EMPH do.INF start do.PST
+# translation = So I had to undertake the difficult work of repairing it all by myself.
+# rtl = yes
+# text = اسلئی مرمت دا مشکل کمّ میں آپے ہی کرنا شرو کر دتا ۔
+1	اسلئی	اسلئی	ADV	_	_	10	advmod	_	_
+2	مرمت	مرمت	NOUN	_	Gender=Fem	5	nmod:poss	_	_
+3	دا	دا	ADP	_	_	2	case	_	_
+4	مشکل	مشکل	ADJ	_	Degree=Pos	5	amod	_	_
+5	کمّ	کمّ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+6	میں	میں	PRON	_	Case=Nom|Person=1|PronType=Prs	10	nsubj	_	_
+7	آپے	آپ	PRON	_	PronType=Prs	10	obl	_	_
+8	ہی	ہی	PART	_	_	7	discourse	_	_
+9	کرنا	کرنا	VERB	_	VerbForm=Inf	10	xcomp	_	_
+10	شرو	شروع	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+11	کر	کر	VERB	_	Aspect=Perf|VerbForm=Part	10	xcomp	_	_
+12	دتا	دتا	VERB	_	_	10	compound	_	_
+13	۔	۔	PUNCT	_	_	10	punct	_	_
+
+# sent_id = pa_rang-ud-train__43
+# original_text = میرے لئی اہ جیون تے موت دا سوال سی کیونکِ میرے کول سرف اک ہفتے لئی ہی پین دا پانی سی۔
+# transliteration = mere laī eh jīvan te maut dā savāl sī kiõki mere kol sirf ik hafte laī hī peṇ dā pānī sī.
+# gloss = me for this life and death GEN question COP.PST because my with only one week for EMPH drink GEN water COP.PST
+# translation = For me it was a question of life and death, since I had only enough drinking water for a week.
+# rtl = yes
+# text = میرے لئی اہ جیون تے موت دا سوال سی کیونکِ میرے کول سرف اک ہفتے لئی ہی پین دا پانی سی ۔
+1	میرے	میرا	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl:arg	_	_
+2	لئی	لئی	ADP	_	_	1	case	_	_
+3	اہ	اہ	PRON	_	PronType=Dem	8	nsubj	_	_
+4	جیون	جیون	NOUN	_	Gender=Masc|Number=Sing	8	nmod:poss	_	_
+5	تے	تے	CCONJ	_	_	6	cc	_	_
+6	موت	موت	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	دا	دا	ADP	_	_	4	case	_	_
+8	سوال	سوال	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	سی	ہونا	AUX	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+10	کیونکِ	کیونکِ	SCONJ	_	_	20	mark	_	_
+11	میرے	میرا	PRON	_	PronType=Prs	20	obl:arg	_	_
+12	کول	کول	ADP	_	_	11	case	_	_
+13	سرف	صرف	ADV	_	_	20	advmod	_	_
+14	اک	اک	NUM	_	_	15	nummod	_	_
+15	ہفتے	ہفتہ	NOUN	_	Gender=Masc|Number=Sing	20	obl:tmod	_	_
+16	لئی	لئی	ADP	_	_	15	case	_	_
+17	ہی	ہی	ADV	_	_	15	discourse	_	_
+18	پین	پین	NOUN	_	_	20	nmod:poss	_	_
+19	دا	دا	ADP	_	_	18	case	_	_
+20	پانی	پانی	NOUN	_	Gender=Masc|Number=Sing	8	advcl	_	_
+21	سی	ہونا	AUX	_	Mood=Ind	20	cop	_	_
+22	۔	۔	PUNCT	_	_	8	punct	_	_
+
+# sent_id = pa_rang-ud-train__44
+# original_text = پہلی رات میں منکھی آبادی تو ہزاراں میل دور ریت تے ہی سوں گیا۔
+# transliteration = pehlī rāt maĩ mankhī ābādī tō̃ hazārā̃ mīl dūr ret te hī sõ gayā.
+# gloss = first night I human settlement from thousands mile far sand on EMPH sleep go.PST
+# translation = That first night I went to sleep on the sand a thousand miles from any human habitation.
+# rtl = yes
+# text = پہلی رات میں منکھی آبادی تو ہزاراں میل دور ریت تے ہی سوں گیا ۔
+1	پہلی	پہلا	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+2	رات	رات	NOUN	_	Gender=Fem|Number=Sing	9	obl:tmod	_	_
+3	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+4	منکھی	منکھی	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	آبادی	آبادی	NOUN	_	Gender=Fem|Number=Sing	9	obl:arg	_	_
+6	تو	تو	ADP	_	_	5	case	_	_
+7	ہزاراں	ہزار	NUM	_	_	8	nummod	_	_
+8	میل	میل	NOUN	_	_	9	obl	_	_
+9	دور	دور	ADJ	_	_	0	root	_	_
+10	ریت	ریت	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+11	تے	تے	ADP	_	_	10	case	_	_
+12	ہی	ہی	ADV	_	_	9	discourse	_	_
+13	سوں	سونا	VERB	_	VerbForm=Part	9	xcomp	_	_
+14	گیا	گیا	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	13	compound	_	_
+15	۔	۔	PUNCT	_	_	9	punct	_	_
+
+# sent_id = pa_rang-ud-train__45
+# original_text = اس رات میں تاں تباہ سمندری جہاز دے اس جہازی توں وی ودھیرے اکلا ساں جنھے وچکار سمندر دے اکّ بلی پھڑی ہووے۔
+# transliteration = us rāt maĩ tā̃ tabāh samundarī jahāz de us jahāzī tō̃ vī vadhere akelā sā̃ jinhne vichkār samundar de ik beli phaṛī hovē.
+# gloss = that night I EMPH wrecked sea-ship GEN that sailor from even more alone COP.PST who middle sea GEN one raft catch.SUBJ COP.PST
+# translation = That night I was even more lonely than a shipwrecked sailor on a raft in the middle of the ocean.
+# rtl = yes
+# text = اس رات میں تاں تباہ سمندری جہاز دے اس جہازی توں وی ودھیرے اکلا ساں جنھے وچکار سمندر دے اکّ بلی پھڑی ہووے ۔
+1	اس	اس	DET	_	PronType=Dem	2	det	_	_
+2	رات	رات	NOUN	_	Gender=Fem	14	obl:tmod	_	_
+3	میں	میں	PRON	_	PronType=Prs	14	nsubj	_	_
+4	تاں	تاں	PART	_	_	14	discourse	_	_
+5	تباہ	تباہ	ADJ	_	_	7	amod	_	_
+6	سمندری	سمندری	ADJ	_	Degree=Pos	7	amod	_	_
+7	جہاز	جہاز	NOUN	_	Gender=Masc	10	nmod:poss	_	_
+8	دے	دا	ADP	_	_	7	case	_	_
+9	اس	اس	DET	_	PronType=Dem	10	det	_	_
+10	جہازی	جہازی	NOUN	_	Gender=Masc	14	obl	_	_
+11	توں	توں	ADP	_	_	10	case	_	_
+12	وی	وی	PART	_	_	13	discourse	_	_
+13	ودھیرے	ودھیر	ADV	_	_	14	advmod	_	_
+14	اکلا	اکیلا	ADJ	_	Gender=Masc	0	root	_	_
+15	ساں	ہونا	AUX	_	Tense=Past	14	aux	_	_
+16	جنھے	جنھے	PRON	_	PronType=Rel	22	nsubj	_	_
+17	وچکار	وچکار	NOUN	_	_	22	obl	_	_
+18	سمندر	سمندر	NOUN	_	Gender=Masc	17	nmod:poss	_	_
+19	دے	دا	ADP	_	_	18	case	_	_
+20	اکّ	اک	NUM	_	NumType=Card	21	nummod	_	_
+21	بلی	بلی	NOUN	_	Gender=Fem	22	obj	_	_
+22	پھڑی	پھڑی	VERB	_	Aspect=Perf	14	acl:relcl	_	_
+23	ہووے	ہونا	VERB	_	Mood=Ind|VerbForm=Fin	22	compound	_	_
+24	۔	۔	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__46
+# original_text = انج تسیں میری ہیرانی دا کارن سمجھ سکدے ہو جدو سویرے سورج چڑھن تیں مینوں اک پیاری جہی آواز نے اہ کہِ کے جگایا ہووے:
+# transliteration = inj tusī̃ merī herānī dā kāraṇ samajh sakde ho jadõ svere suraj chaṛhaṇ tẽ mainū̃ ik pyārī jihī āvāz ne eh keh ke jagāyā hovē.
+# gloss = thus you my astonishment GEN reason understand can.PRS you when morning sun rise.CVB me.ACC one lovely little voice ERG this say.CVB wake.PFV COP.SUBJ
+# translation = So you can imagine my astonishment when I was awakened at sunrise by a little voice saying:
+# rtl = yes
+# text = انج تسیں میری ہیرانی دا کارن سمجھ سکدے ہو جدو سویرے سورج چڑھن تیں مینوں اک پیاری جہی آواز نے اہ کہِ کے جگایا ہووے
+1	انج	انج	ADV	_	_	7	advmod	_	_
+2	تسیں	تسیں	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+3	میری	میرا	DET	_	PronType=Prs	4	det	_	_
+4	ہیرانی	ہیران	NOUN	_	Gender=Fem|Number=Sing	6	nmod:poss	_	_
+5	دا	دا	ADP	_	_	6	case	_	_
+6	کارن	کارن	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+7	سمجھ	سمجھ	VERB	_	VerbForm=Inf	0	root	_	_
+8	سکدے	سکدا	VERB	_	_	7	xcomp	_	_
+9	ہو	ہونا	AUX	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+10	جدو	جدو	SCONJ	_	_	24	mark	_	_
+11	سویرے	سویر	ADV	_	_	24	obl:tmod	_	_
+12	سورج	سورج	NOUN	_	_	24	nmod	_	_
+13	چڑھن	چڑھن	VERB	_	VerbForm=Inf	24	advcl	_	_
+14	تیں	تیں	ADP	_	_	13	case	_	_
+15	مینوں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	24	iobj	_	_
+16	اک	اک	NUM	_	_	19	nummod	_	_
+17	پیاری	پیارا	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+18	جہی	جہی	ADJ	_	Degree=Pos	19	amod	_	_
+19	آواز	آواز	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+20	نے	نے	ADP	_	_	19	case	_	_
+21	اہ	اہ	PRON	_	PronType=Dem	22	obj	_	_
+22	کہِ	کہِ	VERB	_	VerbForm=Part	24	advcl	_	_
+23	کے	کے	SCONJ	_	_	22	case	_	_
+24	جگایا	جگایا	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+25	ہووے	ہونا	AUX	_	Mood=Ind|Tense=Pres	24	aux	_	_
+
+# sent_id = pa_rang-ud-train__47
+# text = مینوں “ اک بھیڈ واہ کے دیوگے ” ؟
+# original_text = “مینوں اک بھیڈ واہ کے دیوگے ؟”
+# transliteration = "mainū̃ ik bhēṛ vāh ke deo-ge?"
+# gloss = me.DAT one sheep draw.CVB give-FUT.2PL
+# translation = “If you please—draw me a sheep!”
+# rtl = yes
+1	مینوں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+2	“	“	PUNCT	_	_	3	punct	_	_
+3	اک	اک	NUM	_	NumType=Card	4	nummod	_	_
+4	بھیڈ	بھیڈ	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+5	واہ	واہ	VERB	_	VerbForm=Part	7	advcl	_	_
+6	کے	کے	SCONJ	_	_	5	case	_	_
+7	دیوگے	دیوگے	VERB	_	Mood=Ind|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	”	”	PUNCT	_	_	7	punct	_	_
+9	؟	؟	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__48
+# original_text = ہیں! کی!
+# transliteration = haĩ! kī!
+# gloss = exclam what
+# translation = Huh! What!
+# rtl = yes
+# text = ! ہیں کی !
+1	!	!	PUNCT	_	_	2	punct	_	_
+2	ہیں	ہیں	VERB	_	Tense=Pres	0	root	_	_
+3	کی	کی	PRON	_	PronType=Ind	2	discourse	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = pa_rang-ud-train__49
+# text = اوں “ ۔ اوں ۔ مینوں اک بھیڈ واہ کے ” دیو ۔
+# original_text = “اوں  مینوں اک بھیڈ واہ کے دیو”
+# transliteration = "ũ ... ũ ... mainū̃ ik bhēṛ vāh ke deo."
+# gloss = um um me.DAT one sheep draw.CVB give.IMP
+# translation = “Uh… uh… draw me a sheep.”
+# rtl = yes
+1	اوں	اوں	INTJ	_	_	12	discourse	_	_
+2	“	“	PUNCT	_	_	4	punct	_	_
+3	۔	_	PUNCT	_	_	4	punct	_	_
+4	اوں	اوں	INTJ	_	_	12	discourse	_	_
+5	۔	_	PUNCT	_	_	6	punct	_	_
+6	مینوں	میں	PRON	_	Number=Sing|PronType=Prs	12	iobj	_	_
+7	اک	اک	NUM	_	_	8	nummod	_	_
+8	بھیڈ	بھیڈ	NOUN	_	_	12	obj	_	_
+9	واہ	واہ	VERB	_	_	12	advcl	_	_
+10	کے	کے	SCONJ	_	_	12	case	_	_
+11	”	”	PUNCT	_	_	12	punct	_	_
+12	دیو	دیو	VERB	_	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_
+13	۔	۔	PUNCT	_	_	12	punct	_	_
+
+# sent_id = pa_rang-ud-train__50
+# original_text = میں تربھک کے اٹھ پیا۔
+# transliteration = maĩ tarbhaḵ ke uṭh piā.
+# gloss = I startled.CVB rise go.PST
+# translation = I jumped to my feet in astonishment.
+# rtl = yes
+# text = میں تربھک کے اٹھ پیا ۔
+1	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	تربھک	تربھک	ADV	_	_	5	advcl	_	_
+3	کے	کے	ADP	_	_	2	mark	_	_
+4	اٹھ	اٹھ	VERB	_	Aspect=Perf|VerbForm=Part	5	xcomp	_	_
+5	پیا	پیا	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+6	۔	۔	PUNCT	_	_	5	punct	_	_
+
+# sent_id = pa_rang-ud-train__51
+# original_text = میں آپنیاں اکھاں نوں چنگی تراں ملیا۔
+# transliteration = maĩ āpniā̃ akhā̃ nū̃ chiṅgī tarā̃ meliā.
+# gloss = I own eyes ACC properly rub.PST
+# translation = I rubbed my eyes well.
+# rtl = yes
+# text = میں آپنیاں اکھاں نوں چنگی تراں ملیا ۔
+1	میں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+2	آپنیاں	آپنا	PRON	_	Number=Plur|Person=1|PronType=Prs	3	det	_	_
+3	اکھاں	اکھ	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+4	نوں	نوں	ADP	_	_	3	case	_	_
+5	چنگی	چنگا	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	تراں	تراں	ADV	_	_	7	obl	_	_
+7	ملیا	ملیا	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__52
+# original_text = چارے پاسے چنگی تراں ویکھیا کِ میرے ساہمنے باہلا ہی چھوٹا بندا مینوں بڑی نیجھ نال واچ رہا سی۔
+# transliteration = chāre pāse chiṅgī tarā̃ vekhiā ki mere sāhmne bāhlā hī choṭā bandā mainū̃ baṛī nījh nāl vāch rahā sī.
+# gloss = four side properly see.PST that my front right EMPH small man me.ACC great seriousness with watch PROG COP.PST
+# translation = I looked carefully around and saw a very small person standing seriously in front of me.
+# rtl = yes
+# text = چارے پاسے چنگی تراں ویکھیا کِ میرے ساہمنے باہلا ہی چھوٹا بندا مینوں بڑی نیجھ نال واچ رہا سی ۔
+1	چارے	چارا	NUM	_	_	2	nummod	_	_
+2	پاسے	پاسا	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+3	چنگی	چنگا	ADJ	_	Degree=Pos|Gender=Fem	4	amod	_	_
+4	تراں	تراں	ADV	_	_	5	obl	_	_
+5	ویکھیا	ویکھنا	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	کِ	کِ	SCONJ	_	_	17	mark	_	_
+7	میرے	میرا	PRON	_	PronType=Prs	8	det:poss	_	_
+8	ساہمنے	ساہمنہ	VERB	_	Gender=Masc|Number=Sing	17	obl	_	_
+9	باہلا	باہلا	ADV	_	_	12	advmod	_	_
+10	ہی	ہی	PART	_	_	12	discourse	_	_
+11	چھوٹا	چھوٹا	ADJ	_	Degree=Pos|Gender=Masc	12	amod	_	_
+12	بندا	بندا	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+13	مینوں	میں	PRON	_	Number=Sing|PronType=Prs	17	obl	_	_
+14	بڑی	بڑا	ADJ	_	Gender=Fem	15	amod	_	_
+15	نیجھ	نیجھ	NOUN	_	Gender=Fem	17	obl	_	_
+16	نال	نال	ADP	_	_	15	case	_	_
+17	واچ	واچ	VERB	_	_	5	ccomp	_	_
+18	رہا	رہا	VERB	_	Mood=Ind	17	compound	_	_
+19	سی	ہونا	AUX	_	Mood=Ind	17	aux	_	_
+20	۔	۔	PUNCT	_	_	5	punct	_	_
+
+# sent_id = pa_rang-ud-train__53
+# original_text = آہ ویکھو اسدا سوہنا جہا چتر جو میں بائد وچ بنا سکیا۔
+# transliteration = āh vekho usdā sohnā jihā chitr jo maĩ bāad vic banā sakiā.
+# gloss = here see his beautiful little picture REL I later in make can.PST
+# translation = Here is a sketch of him that I later succeeded in making.
+# rtl = yes
+# text = آہ ویکھو اسدا سوہنا جہا چتر جو میں بائد وچ بنا سکیا ۔
+1	آہ	آہ	ADV	_	_	2	discourse	_	_
+2	ویکھو	ویکھنا	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+3	اسدا	اوہ	PRON	_	Number=Sing|PronType=Prs	6	det	_	_
+4	سوہنا	سوہنا	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+5	جہا	جہا	ADJ	_	Degree=Pos	6	amod	_	_
+6	چتر	چتر	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+7	جو	جو	PRON	_	PronType=Rel	11	obj	_	_
+8	میں	میں	PRON	_	Number=Sing|PronType=Prs	11	nsubj	_	_
+9	بائد	بائد	ADV	_	_	11	obl	_	_
+10	وچ	وچ	ADP	_	_	9	case	_	_
+11	بنا	بنا	VERB	_	_	6	acl	_	_
+12	سکیا	سکیا	VERB	_	Mood=Ind|VerbForm=Fin	11	compound	_	_
+13	۔	۔	PUNCT	_	_	2	punct	_	_
+
+# sent_id = pa_rang-ud-train__54
+# original_text = میرا “ماڈل” میرے چتر نالو کتے سوہنا سی۔
+# transliteration = merā "māḍal" mere chitr nālõ kaṭe sohnā sī.
+# gloss = my model my drawing than much more beautiful COP.PST
+# translation = My model was, of course, far more charming than my drawing.
+# rtl = yes
+# text = میرا ماڈل میرے چتر نالو کتے سوہنا سی ۔
+1	میرا	میرا	PRON	_	PronType=Prs	2	det	_	_
+2	ماڈل	ماڈل	NOUN	_	_	7	nsubj	_	_
+3	میرے	میرا	PRON	_	PronType=Prs	4	det	_	_
+4	چتر	چتر	NOUN	_	_	7	obl	_	_
+5	نالو	نالو	ADP	_	_	4	case	_	_
+6	کتے	کتا	ADV	_	_	7	advmod	_	_
+7	سوہنا	سوہنا	ADJ	_	_	0	root	_	_
+8	سی	ہونا	AUX	_	Mood=Ind	7	aux	_	_
+9	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__55
+# original_text = اس وچ میرا کوئی کسور نہیں،
+# transliteration = is vic merā koī kasūr nahī̃,
+# gloss = this in my any fault NEG
+# translation = That is not my fault,
+# rtl = yes
+# text = اس وچ میرا کوئی کسور نہیں
+1	اس	اس	PRON	_	PronType=Dem	5	obl	_	_
+2	وچ	وچ	ADP	_	_	1	case	_	_
+3	میرا	میرا	PRON	_	PronType=Prs	5	det:poss	_	_
+4	کوئی	کوئی	PRON	_	PronType=Ind	5	det	_	_
+5	کسور	کسور	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	نہیں	نہیں	PART	_	_	5	advmod	_	_
+
+# sent_id = pa_rang-ud-train__56
+# original_text = کیونکِ میرے وڈیاں نے میری چھ سال دی اومر وچ ہی "چترکار" بنن توں میرا ہوسلا توڑ دتا سی۔
+# transliteration = kiõki mere vaḍiyā̃ ne merī chhe sāl dī umur vic hī "chitrakār" bann tō̃ merā hoslā ṭoṛ ditta sī.
+# gloss = because my elders ERG my six year GEN age in EMPH painter become from my courage break give.PST COP.PST
+# translation = because the grown-ups had discouraged me from being a painter when I was six years old.
+# rtl = yes
+# text = کیونکِ میرے وڈیاں نے میری چھ سال دی اومر وچ ہی چترکار بنن توں میرا ہوسلا توڑ دتا سی ۔
+1	کیونکِ	کیونکِ	SCONJ	_	_	17	mark	_	_
+2	میرے	میرا	PRON	_	PronType=Prs	3	det	_	_
+3	وڈیاں	وڈا	NOUN	_	Gender=Masc|Number=Plur	17	nsubj	_	_
+4	نے	نے	ADP	_	_	3	case	_	_
+5	میری	میرا	PRON	_	PronType=Prs	9	det:poss	_	_
+6	چھ	چھ	NUM	_	_	9	nummod	_	_
+7	سال	سال	NOUN	_	_	9	nmod	_	_
+8	دی	دی	ADP	_	_	7	case	_	_
+9	اومر	عمر	NOUN	_	Gender=Fem|Number=Sing	17	obl:tmod	_	_
+10	وچ	وچ	ADP	_	_	9	case	_	_
+11	ہی	ہی	ADV	_	_	9	advmod	_	_
+12	چترکار	چترکار	NOUN	_	_	13	obj	_	_
+13	بنن	بنن	VERB	_	_	17	obl	_	_
+14	توں	توں	ADP	_	_	13	case	_	_
+15	میرا	میرا	PRON	_	PronType=Prs	16	det:poss	_	_
+16	ہوسلا	ہوسلا	NOUN	_	_	17	obj	_	_
+17	توڑ	توڑ	VERB	_	_	0	root	_	_
+18	دتا	دتا	VERB	_	Mood=Ind	17	compound	_	_
+19	سی	ہونا	AUX	_	Mood=Ind	17	aux	_	_
+20	۔	۔	PUNCT	_	_	17	punct	_	_
+
+# sent_id = pa_rang-ud-train__57
+# original_text = اس کرکے مینوں ڈرائنگ کرنی نہیں آئی سوائے اجگراں دے اندروں تے باہروں چتراں دے۔
+# transliteration = is karke mainū̃ ḍrāiṅg karni nahī̃ āī siwāe ajgarā̃ de andarõ te bāharõ citrā̃ de.
+# gloss = this reason me.DAT drawing do.INF NEG come.PFV except boas GEN inside and outside pictures GEN
+# translation = So I never learned to draw anything except boas from the inside and the outside.
+# rtl = yes
+# text = اس کرکے مینوں ڈرائنگ کرنی نہیں آئی سوائے اجگراں دے اندروں تے باہروں چتراں دے ۔
+1	اس	اس	PRON	_	PronType=Dem	7	advcl	_	_
+2	کرکے	کرکے	SCONJ	_	_	1	mark	_	_
+3	مینوں	میں	PRON	_	Number=Sing|PronType=Prs	7	iobj	_	_
+4	ڈرائنگ	ڈرائنگ	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+5	کرنی	کرنا	VERB	_	VerbForm=Inf	7	xcomp	_	_
+6	نہیں	نہیں	PART	_	_	7	advmod	_	_
+7	آئی	آئی	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	سوائے	سوائے	ADP	_	_	7	obl	_	_
+9	اجگراں	اجگر	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+10	دے	دا	ADP	_	_	9	case	_	_
+11	اندروں	اندروں	ADV	_	_	9	conj	_	_
+12	تے	تے	CCONJ	_	_	11	cc	_	_
+13	باہروں	باہروں	ADV	_	_	11	conj	_	_
+14	چتراں	چتر	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+15	دے	دا	ADP	_	_	14	case	_	_
+16	۔	۔	PUNCT	_	_	7	punct	_	_
+
+# sent_id = pa_rang-ud-train__58
+# original_text = ہن میں اس پریت نوں اکھاں کھولھ کے انج ویکھیا جویں میریاں اکھاں میری کھوپڑی وچوں باہر آ جانگیاں۔
+# transliteration = hun maĩ is parīt nū̃ akhā̃̃kholh ke inj vekhiā joiẽ meriyā̃ akhā̃ merī khopṛī vicõ bāhar ā jāṇgiyā̃.
+# gloss = now I this apparition ACC eyes open.CVB thus see.PST as.if my eyes my skull from outside come go.FUT
+# translation = Now I stared at this apparition with wide-open eyes, as if my eyes would leap out of my head.
+# rtl = yes
+# text = ہن میں اس پریت نوں اکھاں کھولھ کے انج ویکھیا جویں میریاں اکھاں میری کھوپڑی وچوں باہر آ جانگیاں ۔
+1	ہن	ہن	ADV	_	_	10	advmod	_	_
+2	میں	میں	PRON	_	PronType=Prs	10	nsubj	_	_
+3	اس	اس	PRON	_	PronType=Dem	4	det	_	_
+4	پریت	پریت	NOUN	_	_	10	obj	_	_
+5	نوں	نوں	ADP	_	_	4	case	_	_
+6	اکھاں	اکھ	NOUN	_	_	10	obl	_	_
+7	کھولھ	کھولھ	VERB	_	VerbForm=Part	6	acl	_	_
+8	کے	کے	ADP	_	_	6	mark	_	_
+9	انج	انج	ADV	_	_	10	advmod	_	_
+10	ویکھیا	ویکھنا	VERB	_	_	0	root	_	_
+11	جویں	جویں	SCONJ	_	_	18	mark	_	_
+12	میریاں	میں	DET	_	PronType=Prs	13	det	_	_
+13	اکھاں	اکھاں	NOUN	_	_	18	nsubj	_	_
+14	میری	میرا	PRON	_	PronType=Prs	15	det:poss	_	_
+15	کھوپڑی	کھوپڑی	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+16	وچوں	وچ	ADP	_	_	15	case	_	_
+17	باہر	باہر	ADV	_	_	18	advmod	_	_
+18	آ	آ	VERB	_	_	10	advcl	_	_
+19	جانگیاں	جانگیاں	VERB	_	Mood=Ind	18	compound	_	_
+20	۔	۔	PUNCT	_	_	10	punct	_	_
+
+# sent_id = pa_rang-ud-train__59
+# original_text = تہانوں یاد ہوویگا کِ میرا جہاز ماروتھل وچ "تھڑھاء" کرکے ڈگیا سی تے ماروتھل وسوں توں ہزاراں میل پرھے سی۔
+# transliteration = tahānū̃ yād hovēgā ki merā jahāz māru-thal vic "ṭhṛhāe" karke ḍiggiyā sī te māru-thal vasō̃ tō̃ hazārā̃ mīl paṛhe sī.
+# gloss = you.DAT memory be.FUT that my airplane desert in crash.CVB fall COP.PST and desert settlements from thousands mile far COP.PST
+# translation = You will remember that my plane had crashed in the desert, a thousand miles from any settlement.
+# rtl = yes
+# text = تہانوں یاد ہوویگا کِ میرا جہاز ماروتھل وچ تھڑھاء کرکے ڈگیا سی تے ماروتھل وسوں توں ہزاراں میل پرھے سی ۔
+1	تہانوں	تہانوں	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
+2	یاد	یاد	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	ہوویگا	ہونا	VERB	_	Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	کِ	کِ	SCONJ	_	_	3	mark	_	_
+5	میرا	میرا	DET	_	PronType=Prs	6	det	_	_
+6	جہاز	جہاز	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+7	ماروتھل	ماروتھل	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+8	وچ	وچ	ADP	_	_	7	case	_	_
+9	تھڑھاء	تھڑھاء	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+10	کرکے	کرکے	VERB	_	_	9	mark	_	_
+11	ڈگیا	ڈگنا	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+12	سی	ہونا	AUX	_	_	11	aux	_	_
+13	تے	تے	CCONJ	_	_	11	cc	_	_
+14	ماروتھل	ماروتھل	NOUN	_	_	19	nsubj	_	_
+15	وسوں	وسوں	ADP	_	_	19	case	_	_
+16	توں	توں	ADP	_	_	19	case	_	_
+17	ہزاراں	ہزار	NUM	_	NumType=Card	19	nummod	_	_
+18	میل	میل	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+19	پرھے	پرھے	ADJ	_	_	11	conj	_	_
+20	سی	ہونا	AUX	_	Mood=Ind	19	aux	_	_
+21	۔	۔	PUNCT	_	_	3	punct	_	_
+
+# sent_id = pa_rang-ud-train__60
+# original_text = پر اہ انج نہیں سی جاپدا کِ میرا چھوٹا بندا ریت وچ بناں گلوں آوارا پھر رہا ہووے۔
+# transliteration = par eh inj nahī̃ sī jāpda ki merā choṭā bandā ret vic binā̃ gallõ āvārā phir rahā hovē.
+# gloss = but this thus NEG COP.PST seem.IPFV that my little person sand in without aim wander PROG COP.SUBJ
+# translation = But it did not seem that this little fellow had lost his way wandering aimlessly in the sands.
+# rtl = yes
+# text = پر اہ انج نہیں سی جاپدا کِ میرا چھوٹا بندا ریت وچ بناں گلوں آوارا پھر رہا ہووے ۔
+1	پر	پر	CCONJ	_	_	6	cc	_	_
+2	اہ	اہ	PRON	_	PronType=Dem	6	nsubj	_	_
+3	انج	انج	ADV	_	_	6	advmod	_	_
+4	نہیں	نہیں	PART	_	_	6	advmod	_	_
+5	سی	ہونا	AUX	_	_	6	aux	_	_
+6	جاپدا	جاپدا	VERB	_	Aspect=Imp|Gender=Masc|VerbForm=Part	0	root	_	_
+7	کِ	کِ	SCONJ	_	_	16	mark	_	_
+8	میرا	میرا	DET	_	PronType=Prs	10	det	_	_
+9	چھوٹا	چھوٹا	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+10	بندا	بندا	NOUN	_	Gender=Masc	16	nsubj	_	_
+11	ریت	ریت	NOUN	_	Gender=Fem	16	obl	_	_
+12	وچ	وچ	ADP	_	_	11	case	_	_
+13	بناں	بناں	ADP	_	_	14	case	_	_
+14	گلوں	گل	NOUN	_	_	16	obl	_	_
+15	آوارا	آوارا	ADJ	_	Degree=Pos	16	advmod	_	_
+16	پھر	پھر	VERB	_	_	6	ccomp	_	_
+17	رہا	رہا	VERB	_	Mood=Ind	16	compound	_	_
+18	ہووے	ہونا	AUX	_	Mood=Ind	16	aux	_	_
+19	۔	۔	PUNCT	_	_	6	punct	_	_
+
+# sent_id = pa_rang-ud-train__61
+# original_text = اتے نا ہی اہ بھکھّ، پیاس، ڈر جاں تھکاوٹ نال بیہوش ہو رہا ہووے۔
+# transliteration = ate nā hī eh bhuḵḵ, piās, ḍar jā̃ thakāvaṭ nāl bihosh ho rahā hovē.
+# gloss = and nor EMPH he hunger thirst fear or fatigue with unconscious be PROG COP.SUBJ
+# translation = Nor did he seem to be fainting from hunger, thirst, fear, or fatigue.
+# rtl = yes
+# text = اتے نا ہی اہ ، بھکھّ ، پیاس ڈر جاں تھکاوٹ نال بیہوش ہو رہا ہووے ۔
+1	اتے	اتے	CCONJ	_	_	14	cc	_	_
+2	نا	نا	PART	_	_	14	advmod	_	_
+3	ہی	ہی	PART	_	_	14	advmod:emph	_	_
+4	اہ	اہ	PRON	_	PronType=Dem	14	nsubj	_	_
+5	،	،	PUNCT	_	_	6	punct	_	_
+6	بھکھّ	بھکھّ	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+7	،	،	PUNCT	_	_	6	punct	_	_
+8	پیاس	پیاس	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	ڈر	ڈر	NOUN	_	_	6	conj	_	_
+10	جاں	جاں	CCONJ	_	_	6	cc	_	_
+11	تھکاوٹ	تھکاوٹ	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+12	نال	نال	ADP	_	_	6	case	_	_
+13	بیہوش	بیہوش	ADJ	_	_	14	xcomp	_	_
+14	ہو	ہو	VERB	_	VerbForm=Part	0	root	_	_
+15	رہا	رہا	VERB	_	Mood=Ind	14	compound	_	_
+16	ہووے	ہونا	AUX	_	Mood=Ind	14	aux	_	_
+17	۔	۔	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__62
+# original_text = اہنوں ویکھ کے اجہا وی نہیں سی جاپدا کِ کوئی بچا ماروتھل وچ وسوں توں ہزاراں میل پرھے گواچ گیا ہووے۔
+# transliteration = uhnū̃ vekh ke ajhā vī nahī̃ sī jāpda ki koī bachā māru-thal vic vasō̃ tō̃ hazārā̃ mīl paṛhe gavāch gayā hovē.
+# gloss = him.ACC see.CVB such also NEG COP.PST seem.IPFV that some child desert in settlements from thousands mile far lost go.PFV COP.SUBJ
+# translation = Looking at him, it didn’t seem either that some child had gotten lost thousands of miles from any settlement.
+# rtl = yes
+# text = اہنوں ویکھ کے اجہا وی نہیں سی جاپدا کِ کوئی بچا ماروتھل وچ وسوں توں ہزاراں میل پرھے گواچ گیا ہووے ۔
+1	اہنوں	اہنوں	ADV	_	_	8	obl	_	_
+2	ویکھ	ویکھ	VERB	_	_	8	advcl	_	_
+3	کے	کے	ADP	_	_	2	mark	_	_
+4	اجہا	اجہا	ADV	_	_	8	advmod	_	_
+5	وی	وی	ADV	_	_	8	discourse	_	_
+6	نہیں	نہیں	PART	_	_	8	advmod	_	_
+7	سی	ہونا	AUX	_	_	8	aux	_	_
+8	جاپدا	جاپنا	VERB	_	Aspect=Imp|Gender=Masc|VerbForm=Part	0	root	_	_
+9	کِ	کِ	SCONJ	_	_	19	mark	_	_
+10	کوئی	کوئی	PRON	_	PronType=Ind	11	det	_	_
+11	بچا	بچہ	NOUN	_	_	19	nsubj	_	_
+12	ماروتھل	ماروتھل	PROPN	_	Gender=Masc|Number=Sing	19	obl	_	_
+13	وچ	وچ	ADP	_	_	12	case	_	_
+14	وسوں	وسوں	ADP	_	_	17	case	_	_
+15	توں	توں	ADP	_	_	17	case	_	_
+16	ہزاراں	ہزار	NUM	_	NumType=Card	17	nummod	_	_
+17	میل	میل	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+18	پرھے	پرھا	VERB	_	_	17	amod	_	_
+19	گواچ	گواچ	ADJ	_	_	8	ccomp	_	_
+20	گیا	گیا	VERB	_	Mood=Ind	19	compound	_	_
+21	ہووے	ہونا	AUX	_	Mood=Ind	19	aux	_	_
+22	۔	۔	PUNCT	_	_	8	punct	_	_
+
+# sent_id = pa_rang-ud-train__63
+# original_text = آخر جد میں بولن جوگا ہویا تاں میں اسنوں پچھیا:
+# transliteration = ākhir jad maĩ bolan jogā hoiā tā̃ maĩ isnū̃ puchhiā:
+# gloss = finally when I speak capable become.PFV then I him.ACC ask.PST
+# translation = At last, when I was able to speak, I asked him:
+# rtl = yes
+# text = آخر جد میں بولن جوگا ہویا تاں میں اسنوں پچھیا
+1	آخر	آخر	ADV	_	_	10	discourse	_	_
+2	جد	جد	SCONJ	_	_	6	mark	_	_
+3	میں	میں	PRON	_	Person=1|PronType=Prs	6	nsubj	_	_
+4	بولن	بولن	VERB	_	VerbForm=Inf	6	xcomp	_	_
+5	جوگا	جوگا	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing	4	xcomp	_	_
+6	ہویا	ہویا	VERB	_	Mood=Ind|Tense=Past|VerbForm=Part	10	advcl	_	_
+7	تاں	تاں	SCONJ	_	_	10	mark	_	_
+8	میں	میں	PRON	_	Person=1|PronType=Prs	10	nsubj	_	_
+9	اسنوں	اسنوں	PRON	_	Person=3|PronType=Prs	10	obj	_	_
+10	پچھیا	پچھیا	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = pa_rang-ud-train__64
+# original_text = "پر... توں اتھے کی کر رہا ئی ؟
+# transliteration = "par... tū̃ itthe kī kar rahā̃ ī?
+# gloss = but you here what do PROG COP.2SG
+# translation = “But… what are you doing here?”
+# rtl = yes
+# text = پر ⹁ توں اتھے کی کر رہا ئی ؟
+1	پر	پر	CCONJ	_	_	6	discourse	_	_
+2	⹁	,	PUNCT	_	_	3	punct	_	_
+3	توں	توں	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+4	اتھے	اتھے	ADV	_	_	6	advmod	_	_
+5	کی	کی	PRON	_	PronType=Ind	6	obj	_	_
+6	کر	کر	VERB	_	_	0	root	_	_
+7	رہا	رہا	VERB	_	Mood=Ind	6	compound	_	_
+8	ئی	ہونا	AUX	_	Mood=Ind	6	aux	_	_
+9	؟	؟	PUNCT	_	_	6	punct	_	_
+
+# sent_id = pa_rang-ud-train__65
+# original_text = اسنے جواب وچ اویں ہی بڑی ہولی جہی انج کہا جویں کوئی بڑی زروری گل کر رہا ہووے ،......... " مینوں اک بھیڈ واہ دیو ۔ "
+# transliteration = usne javāb vic aveĩ hī baṛī holī jihī inj kahā joiẽ koī baṛī zarūrī gal kar rahā hovē, ... "mainū̃ ik bhēṛ vāh deo."
+# gloss = he.ERG reply in just EMPH very softly little thus say.PST as.if some big important talk do PROG COP.SUBJ ... me.DAT one sheep draw give.IMP
+# translation = He answered very gently, as if stating something very important: “Draw me a sheep.”
+# rtl = yes
+# text = اسنے جواب وچ اویں ہی بڑی ہولی جہی انج کہا جویں کوئی بڑی ضروری گل کر رہا ہووے ، " مینوں اک بھیڈ واہ دیو " ۔
+1	اسنے	اسنے	PRON	_	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+2	جواب	جواب	NOUN	_	Gender=Masc	10	obl	_	_
+3	وچ	وچ	ADP	_	_	2	case	_	_
+4	اویں	اویں	ADV	_	_	10	advmod	_	_
+5	ہی	ہی	PART	_	_	10	discourse	_	_
+6	بڑی	بڑا	ADJ	_	_	10	advmod	_	_
+7	ہولی	ہولی	ADV	_	_	10	advmod	_	_
+8	جہی	جہا	ADJ	_	_	10	advmod	_	_
+9	انج	انج	ADV	_	_	10	advmod	_	_
+10	کہا	کہا	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+11	جویں	جویں	SCONJ	_	_	12	mark	_	_
+12	کوئی	کوئی	PRON	_	PronType=Ind	16	nsubj	_	_
+13	بڑی	بڑا	ADJ	_	Degree=Pos|Gender=Fem	15	amod	_	_
+14	ضروری	ضروری	ADJ	_	_	15	amod	_	_
+15	گل	گل	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+16	کر	کر	VERB	_	_	10	advcl	_	_
+17	رہا	رہا	VERB	_	Mood=Ind	16	xcomp	_	_
+18	ہووے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
+19	،	،	PUNCT	_	_	18	punct	_	_
+20	"	"	PUNCT	_	_	18	punct	_	_
+21	مینوں	میں	PRON	_	Number=Sing|Person=1|PronType=Prs	25	iobj	_	_
+22	اک	اک	NUM	_	NumType=Card	23	nummod	_	_
+23	بھیڈ	بھیڈ	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	_
+24	واہ	واہ	VERB	_	_	25	xcomp	_	_
+25	دیو	دیو	VERB	_	Mood=Ind	16	parataxis	_	_
+26	"	"	PUNCT	_	_	25	punct	_	_
+27	۔	۔	PUNCT	_	_	10	punct	_	_
+
+# sent_id = pa_rang-ud-train__66
+# original_text = جدوں "بھیت" ہاوی ہو جاندا ہے تاں اسنوں منن توں کوئی انکار نہی کر سکدا۔
+# transliteration = jadō̃ "bhēt" hāvī ho jāndā hai tā̃ isnū̃ manan tō̃ koī inkār nahī̃ kar sakdā.
+# gloss = when mystery overpower become go.PRS COP.PRS then it.ACC accept from no refusal NEG do can.PRS
+# translation = When mystery overpowers you, there is no refusing it.
+# rtl = yes
+# text = جدوں بھیت ہاوی ہو جاندا ہے تاں اسنوں منن توں کوئی انکار نہی کر سکدا ۔
+1	جدوں	جدوں	SCONJ	_	_	5	mark	_	_
+2	بھیت	بھیت	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ہاوی	ہاوی	ADJ	_	Degree=Pos	5	xcomp	_	_
+4	ہو	ہونا	AUX	_	Mood=Ind|VerbForm=Part	5	aux	_	_
+5	جاندا	جاندا	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	14	advcl	_	_
+6	ہے	ہونا	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+7	تاں	تاں	SCONJ	_	_	14	discourse	_	_
+8	اسنوں	اسنوں	PRON	_	Person=3|PronType=Prs	14	obl	_	_
+9	منن	منن	VERB	_	VerbForm=Inf	8	compound	_	_
+10	توں	توں	ADP	_	_	8	case	_	_
+11	کوئی	کوئی	PRON	_	PronType=Ind	14	nsubj	_	_
+12	انکار	انکار	NOUN	_	_	14	obj	_	_
+13	نہی	نہی	PART	_	_	14	advmod	_	_
+14	کر	کر	VERB	_	_	0	root	_	_
+15	سکدا	سکدا	VERB	_	Mood=Ind	14	compound	_	_
+16	۔	۔	PUNCT	_	_	14	punct	_	_
+
+# sent_id = pa_rang-ud-train__67
+# original_text = بڑا ہی ہاسوہینا لگیا ہوویگا ، جدوں وسوں توں ہزاراں میل دور اتے موت دے مونہ وچ ہندیا ہویاں بھیڈ واہن لئی میں آپنا پینّ تے کاغز کڈھیا ہوویگا۔
+# transliteration = baṛā hī hāsvehīnā lagiā hovēgā, jadō̃ vasō̃ tō̃ hazārā̃ mīl dūr ate maut de muh̃ vic hundiā hoiā̃ bhēṛ vāhan laī maĩ āpnā pen te kāgaz kaḍhiā hovēgā.
+# gloss = very EMPH ridiculous seem COP.FUT when settlement from thousands mile far and death GEN mouth in being SUBJ sheep draw for I own pen and paper take.out COP.FUT
+# translation = It must have seemed ridiculous: thousands of miles from human habitation, facing death, I still pulled out pen and paper to draw a sheep.
+# rtl = yes
+# text = بڑا ہی ہاسوہینا لگیا ہوویگا ، جدوں وسوں توں ہزاراں میل دور اتے موت دے مونہ وچ ہندیا ہویاں بھیڈ واہن لئی میں آپنا پینّ تے کاغز کڈھیا ہوویگا ۔
+1	بڑا	بڑا	ADV	_	_	4	advmod	_	_
+2	ہی	ہی	PART	_	_	4	discourse	_	_
+3	ہاسوہینا	ہاسوہینا	ADJ	_	Degree=Pos	4	xcomp	_	_
+4	لگیا	لگیا	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Part	0	root	_	_
+5	ہوویگا	ہونا	AUX	_	_	4	aux	_	_
+6	،	،	PUNCT	_	_	4	punct	_	_
+7	جدوں	جدوں	SCONJ	_	_	4	mark	_	_
+8	وسوں	وسوں	NOUN	_	_	4	obl	_	_
+9	توں	توں	ADP	_	_	8	case	_	_
+10	ہزاراں	ہزار	NUM	_	NumType=Card	11	nummod	_	_
+11	میل	میل	NOUN	_	_	4	obl	_	_
+12	دور	دور	ADV	_	_	4	advmod	_	_
+13	اتے	اتے	CCONJ	_	_	4	cc	_	_
+14	موت	موت	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+15	دے	دا	ADP	_	_	14	case	_	_
+16	مونہ	مونہ	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+17	وچ	وچ	ADP	_	_	14	case	_	_
+18	ہندیا	ہونا	AUX	_	Mood=Ind	4	aux	_	_
+19	ہویاں	ہونا	AUX	_	Mood=Ind	4	aux	_	_
+20	بھیڈ	بھیڈ	NOUN	_	_	28	obl:arg	_	_
+21	واہن	واہن	VERB	_	VerbForm=Inf	20	xcomp	_	_
+22	لئی	لئی	ADP	_	_	20	case	_	_
+23	میں	میں	PRON	_	Person=1|PronType=Prs	28	nsubj	_	_
+24	آپنا	آپنا	PRON	_	PronType=Prs	28	det:poss	_	_
+25	پینّ	پینّ	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	_
+26	تے	تے	CCONJ	_	_	25	cc	_	_
+27	کاغز	کاغز	NOUN	_	Gender=Masc|Number=Sing	25	conj	_	_
+28	کڈھیا	کڈھیا	VERB	_	Aspect=Perf|Tense=Past	4	advcl	_	_
+29	ہوویگا	ہونا	AUX	_	Mood=Ind	4	aux	_	_
+30	۔	۔	PUNCT	_	_	4	punct	_	_
+
+# sent_id_coercive_discourse = 1
+# original_text = میں پنجابی نہیں ہوں۔.
+# transliteration = main panjabi nahin haan.
+# translation = I am not a Punjabi.
+# rtl = yes
+# text = میں پنجابی نہیں ہوں -
+1	میں	میں	PRON	_	PronType=Prs	4	nsubj	_	_
+2	پنجابی	پنجابی	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_
+3	نہیں	نہیں	PART	_	_	4	advmod	_	_
+4	ہوں	ہونا	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+5	-	-	PUNCT	_	_	4	punct	_	_
+
+# sent_id_coercive_discourse  = 2
+# original_text = پنجابی زبان ’تے وی میرا پورا عبور نہیں۔.
+# transliteration = panjabi zabaan te vi mera poora aboor nahin.
+# translation = I do not have complete command over the Punjabi language.
+# rtl = yes
+# text = پنجابی زبان تے وی میرا پورا عبور نہیں -
+1	پنجابی	پنجابی	ADJ	_	_	2	amod	_	_
+2	زبان	زبان	NOUN	_	Gender=Fem	6	nmod	_	_
+3	تے	تے	ADP	_	_	2	case	_	_
+4	وی	وی	ADV	_	_	6	advmod	_	_
+5	میرا	میرا	DET	_	PronType=Prs	6	det	_	_
+6	پورا	پورا	ADJ	_	_	7	amod	_	_
+7	عبور	عبور	NOUN	_	_	0	root	_	_
+8	نہیں	نہیں	PART	_	_	7	advmod	_	_
+9	-	-	PUNCT	_	_	7	punct	_	_
+
+# sent_id_coercive_discourse = 3
+# original_text = میں مغربی لباس پہنتا ہاں۔.
+# transliteration = main maghribi libaas pehnda haan.
+# translation = I wear Western clothes.
+# rtl = yes
+# text = میں مغربی لباس پہنتا ہاں ۔
+1	میں	میں	PRON	_	PronType=Prs	4	nsubj	_	_
+2	مغربی	مغربی	ADJ	_	_	3	amod	_	_
+3	لباس	لباس	NOUN	_	Gender=Masc	4	obj	_	_
+4	پہنتا	پہنتا	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+5	ہاں	ہونا	AUX	_	Mood=Ind|Tense=Pres	4	aux	_	_
+6	۔	۔	PUNCT	_	_	4	punct	_	_
+
+# sent_id_coercive_discourse = 4
+# original_text = میں اردو گانے وی سن لیندا ہاں، پر جدوں غصہ آوے تے ٹھیٹھ پنجابی لہجے وچ موٹی گالی دین توں نہیں کتراندا۔.
+# transliteration = main urdu gaane vi sun leinda haan, par jadon ghussa aave te theth panjabi lahje vich moti gaali den ton nahin katranda.
+# translation = I listen to Urdu songs too, but when I get angry I do not hesitate to swear in a thick Punjabi accent.
+# rtl = yes
+# text = میں اردو گانے وی سن لیندا ہاں پر جدوں غصہ آوے تے ٹھیٹھ پنجابی لہجے وچ موٹی گالی دین توں نہیں کتراندا ۔
+1	میں	میں	PRON	_	PronType=Prs	5	nsubj	_	_
+2	اردو	اردو	ADJ	_	_	3	amod	_	_
+3	گانے	گانا	NOUN	_	Number=Plur	5	obj	_	_
+4	وی	وی	PART	_	_	5	advmod	_	_
+5	سن	سن	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+6	لیندا	لیندا	VERB	_	Aspect=Imp|VerbForm=Part	5	xcomp	_	_
+7	ہاں	ہونا	AUX	_	Mood=Ind	5	aux	_	_
+8	پر	پر	CCONJ	_	_	5	cc	_	_
+9	جدوں	جدوں	SCONJ	_	_	21	mark	_	_
+10	غصہ	غصہ	NOUN	_	_	11	nsubj	_	_
+11	آوے	آنا	VERB	_	Mood=Ind|VerbForm=Fin	22	advcl	_	_
+12	تے	تے	CCONJ	_	_	11	cc	_	_
+13	ٹھیٹھ	ٹھیٹھ	ADJ	_	_	14	amod	_	_
+14	پنجابی	پنجابی	ADJ	_	_	15	amod	_	_
+15	لہجے	لہجہ	NOUN	_	_	21	obl	_	_
+16	وچ	وچ	ADP	_	_	15	case	_	_
+17	موٹی	موٹی	ADJ	_	_	18	amod	_	_
+18	گالی	گالی	NOUN	_	_	21	obj	_	_
+19	دین	دینا	VERB	_	VerbForm=Inf	21	xcomp	_	_
+20	توں	توں	ADP	_	_	19	case	_	_
+21	نہیں	نہیں	PART	_	_	22	advmod	_	_
+22	کتراندا	کتراندا	VERB	_	_	5	conj	_	_
+23	۔	۔	PUNCT	_	_	5	punct	_	_
+
+# sent_id_coercive_discourse = 5
+# original_text = یعنی محبت دا اظہار کرن لئی میں انگریزی دا سہارا لیندا ہاں، پر نفرت دے ویلے مینوں پنجاب یاد آ جاندا اے۔.
+# transliteration = yani muhabbat da izhaar karan lai main angrezi da sahara leinda haan, par nafrat de vele mainu panjab yaad aa jaanda ae.
+# translation = Meaning, for the expression of love I rely on English, but in moments of hate the memory of Punjab haunts me.
+# rtl = yes
+# text = یعنی محبت دا اظہار کرن لئی میں انگریزی دا سہارا لیندا ہاں پر نفرت دے ویلے مینوں پنجاب یاد آ جاندا اے ۔
+1	یعنی	یعنی	ADV	_	_	11	discourse	_	_
+2	محبت	محبت	NOUN	_	_	4	nmod:poss	_	_
+3	دا	دا	ADP	_	_	2	case	_	_
+4	اظہار	اظہار	NOUN	_	_	11	obl	_	_
+5	کرن	کرنا	VERB	_	VerbForm=Inf	4	compound	_	_
+6	لئی	لئی	ADP	_	_	4	case	_	_
+7	میں	میں	PRON	_	PronType=Prs	11	nsubj	_	_
+8	انگریزی	انگریزی	NOUN	_	_	10	nmod:poss	_	_
+9	دا	دا	ADP	_	_	8	case	_	_
+10	سہارا	سہارا	NOUN	_	_	11	obj	_	_
+11	لیندا	لیندا	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
+12	ہاں	ہونا	AUX	_	Mood=Ind	11	aux	_	_
+13	پر	پر	CCONJ	_	_	11	cc	_	_
+14	نفرت	نفرت	NOUN	_	Gender=Fem	16	nmod:poss	_	_
+15	دے	دا	ADP	_	_	14	case	_	_
+16	ویلے	ویلا	NOUN	_	_	20	obl:tmod	_	_
+17	مینوں	میں	PRON	_	PronType=Prs	20	iobj	_	_
+18	پنجاب	پنجاب	NOUN	_	_	20	nsubj	_	_
+19	یاد	یاد	NOUN	_	_	20	compound	_	_
+20	آ	آنا	VERB	_	Mood=Ind|VerbForm=Fin	11	conj	_	_
+21	جاندا	جاندا	VERB	_	Aspect=Imp|VerbForm=Part	20	xcomp	_	_
+22	اے	ہونا	AUX	_	_	20	aux	_	_
+23	۔	۔	PUNCT	_	_	11	punct	_	_
+
+# sent_id_coercive_discourse= 6
+# original_text = میں بلھے شاہ، شاہ فرید تے وارث شاہ دی دھرتی تے رہ کے وی پنجابی نوں محبت دا ذریعہ نہ بنا سکیا۔.
+# transliteration = main Bulleh Shah, Shah Farid te Waris Shah di dharti te reh ke vi panjabi nu muhabbat da zariya na bana sakkia.
+# translation = Even while living in the land of Bulleh Shah, Shah Farid, and Waris Shah, I could not make Punjabi a means of expressing love.
+# rtl = yes
+# text = میں بلھے شاہ شاہ فرید تے وارث شاہ دی دھرتی تے رہ کے وی پنجابی نوں محبت دا ذریعہ نہ بنا سکیا ۔
+1	میں	میں	PRON	_	PronType=Prs	22	nsubj	_	_
+2	بلھے	بلھے	PROPN	_	_	3	compound	_	_
+3	شاہ	شاہ	PROPN	_	_	10	nmod:poss	_	_
+4	شاہ	شاہ	PROPN	_	_	5	compound	_	_
+5	فرید	فرید	PROPN	_	_	3	conj	_	_
+6	تے	تے	CCONJ	_	_	2	cc	_	_
+7	وارث	وارث	PROPN	_	_	8	compound	_	_
+8	شاہ	شاہ	PROPN	_	_	3	conj	_	_
+9	دی	دا	ADP	_	_	3	case	_	_
+10	دھرتی	دھرتی	NOUN	_	_	12	obl	_	_
+11	تے	تے	ADP	_	_	10	case	_	_
+12	رہ	رہ	VERB	_	_	21	advcl	_	_
+13	کے	کے	ADP	_	_	12	mark	_	_
+14	وی	وی	PART	_	_	12	discourse	_	_
+15	پنجابی	پنجابی	NOUN	_	_	22	obj	_	_
+16	نوں	نوں	ADP	_	_	15	case	_	_
+17	محبت	محبت	NOUN	_	_	19	nmod	_	_
+18	دا	دا	ADP	_	_	17	case	_	_
+19	ذریعہ	ذریعہ	NOUN	_	_	22	xcomp	_	_
+20	نہ	نہ	ADV	_	_	22	advmod	_	_
+21	بنا	بنا	VERB	_	_	22	xcomp	_	_
+22	سکیا	سکیا	VERB	_	_	0	root	_	_
+23	۔	۔	PUNCT	_	_	22	punct	_	_
+
+# sent_id_coercive_discourse= 7
+# original_text = ایہہ صرف میری کہانی نہیں۔.
+# transliteration = eh sirf meri kahani nahin.
+# translation = This is not just my story.
+# rtl = yes
+# text = ایہہ صرف میری کہانی نہیں ۔
+1	ایہہ	ایہہ	PRON	_	PronType=Dem	4	nsubj	_	_
+2	صرف	صرف	ADV	_	_	4	advmod	_	_
+3	میری	میرا	DET	_	PronType=Prs	4	det	_	_
+4	کہانی	کہانی	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	نہیں	نہیں	PART	_	_	4	advmod	_	_
+6	۔	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id_coercive_discourse= 8
+# original_text = ایہہ پنجاب وچ رہن والے ہر بندے دی داستان اے۔.
+# transliteration = eh panjab vich rehn vaale har bande di daastaan ae.
+# translation = This is the tale of every individual living in Punjab.
+# rtl = yes
+# text = ایہہ پنجاب وچ رہن والے ہر بندے دی داستان اے ۔
+1	ایہہ	ایہہ	PRON	_	PronType=Dem	9	nsubj	_	_
+2	پنجاب	پنجاب	NOUN	_	_	4	obl	_	_
+3	وچ	وچ	ADP	_	_	2	case	_	_
+4	رہن	رہن	VERB	_	VerbForm=Part	7	acl	_	_
+5	والے	والا	ADP	_	_	4	case	_	_
+6	ہر	ہر	DET	_	PronType=Ind	7	det	_	_
+7	بندے	بندا	NOUN	_	_	9	nmod:poss	_	_
+8	دی	دا	ADP	_	_	7	case	_	_
+9	داستان	داستان	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	اے	ہونا	AUX	_	Mood=Ind|Tense=Pres	9	aux	_	_
+11	۔	۔	PUNCT	_	_	9	punct	_	_
+
+# sent_id_coercive_discourse= 9
+# original_text = ایہہ ہر پنجابی دا دکھ اے کہ ترقی دی تیز رفتاری نال لوگ اپنی ثقافت تے روایت توں دور ہو رہے نیں۔.
+# transliteration = eh har panjabi da dukh ae ke taraqqi di teiz raftari naal log apni saqaafat te riwaayat ton door ho rahe ne.
+# translation = It is the tragedy of every Punjabi that, while chasing rapid progress, people are drifting away from their culture and traditions.
+# rtl = yes
+# text = ایہہ ہر پنجابی دا دکھ اے کہ ترقی دی تیز رفتاری نال لوگ اپنی ثقافت تے روایت توں دور ہو رہے نیں -
+1	ایہہ	ایہہ	PRON	_	PronType=Dem	5	nsubj	_	_
+2	ہر	ہر	DET	_	PronType=Ind	3	det	_	_
+3	پنجابی	پنجابی	NOUN	_	Gender=Masc|Number=Sing	5	nmod:poss	_	_
+4	دا	دا	ADP	_	_	3	case	_	_
+5	دکھ	دکھ	NOUN	_	_	0	root	_	_
+6	اے	ہونا	AUX	_	Mood=Ind|Tense=Pres	5	cop	_	_
+7	کہ	کہ	SCONJ	_	_	20	mark	_	_
+8	ترقی	ترقی	NOUN	_	_	11	nmod:poss	_	_
+9	دی	دی	ADP	_	_	8	case	_	_
+10	تیز	تیز	ADJ	_	_	11	amod	_	_
+11	رفتاری	رفتاری	NOUN	_	Gender=Fem	20	obl	_	_
+12	نال	نال	ADP	_	_	11	case	_	_
+13	لوگ	لوگ	NOUN	_	Number=Plur	20	nsubj	_	_
+14	اپنی	اپنا	DET	_	PronType=Prs	15	det	_	_
+15	ثقافت	ثقافت	NOUN	_	_	20	obl	_	_
+16	تے	تے	CCONJ	_	_	17	cc	_	_
+17	روایت	روایت	NOUN	_	_	15	conj	_	_
+18	توں	توں	ADP	_	_	15	case	_	_
+19	دور	دور	NOUN	_	_	20	xcomp	_	_
+20	ہو	ہونا	VERB	_	Mood=Ind|VerbForm=Part	5	ccomp	_	_
+21	رہے	رہے	VERB	_	VerbForm=Part	20	compound	_	_
+22	نیں	ہونا	AUX	_	Mood=Ind|Tense=Pres	20	aux	_	_
+23	-	-	PUNCT	_	_	5	punct	_	_
+
+# sent_id_coercive_discourse= 10
+# original_text = اتھے دا کسان گندم دی کاشت تے کٹائی دے ویلے خوش ہوندا اے۔.
+# transliteration = itthe da kisaan gandum di kaasht te katai de vele khush honda ae.
+# translation = The farmer here is overjoyed at the time of sowing and harvesting wheat.
+# rtl = yes
+# text = اتھے دا کسان گندم دی کاشت تے کٹائی دے ویلے خوش ہوندا اے -
+1	اتھے	اتھے	ADV	_	_	3	nmod:poss	_	_
+2	دا	دا	ADP	_	_	1	case	_	_
+3	کسان	کسان	NOUN	_	_	11	nsubj	_	_
+4	گندم	گندم	NOUN	_	Gender=Fem	6	nmod:poss	_	_
+5	دی	دا	ADP	_	_	4	case	_	_
+6	کاشت	کاشت	NOUN	_	_	10	nmod	_	_
+7	تے	تے	CCONJ	_	_	8	cc	_	_
+8	کٹائی	کٹائی	NOUN	_	_	6	conj	_	_
+9	دے	دا	ADP	_	_	8	case	_	_
+10	ویلے	ویلے	NOUN	_	_	11	obl:tmod	_	_
+11	خوش	خوش	NOUN	_	_	0	root	_	_
+12	ہوندا	ہونا	AUX	_	Mood=Ind	11	cop	_	_
+13	اے	ہونا	AUX	_	Mood=Ind	11	aux	_	_
+14	-	-	PUNCT	_	_	11	punct	_	_
+
+# sent_id _coercive_discourse= 11
+# original_text = بوائی دے ویلے لوہڑی منائی جاندی اے، تے فصل پکدی اے تاں اوہنوں اپنی محنت دا پھل ملدا اے۔.
+# transliteration = boai de vele Lohri manai jandi ae, te fasal pakdi ae taan ohnu apni mehnat da phal milda ae.
+# translation = At sowing time Lohri is celebrated, and when the crop ripens he receives the fruit of his labour.
+# rtl = yes
+# text = بوائی دے ویلے لوہڑی منائی جاندی اے تے فصل پکدی اے تاں اوہنوں اپنی محنت دا پھل ملدا اے -
+1	بوائی	بوائی	NOUN	_	Gender=Fem	4	nmod:poss	_	_
+2	دے	دا	ADP	_	_	1	case	_	_
+3	ویلے	ویلا	NOUN	_	_	5	obl:tmod	_	_
+4	لوہڑی	لوہڑی	NOUN	_	_	5	nsubj	_	_
+5	منائی	مناونا	VERB	_	Mood=Ind|VerbForm=Part	0	root	_	_
+6	جاندی	جانا	VERB	_	Tense=Pres|VerbForm=Part	5	xcomp	_	_
+7	اے	ہونا	AUX	_	Mood=Ind|Tense=Pres	5	aux	_	_
+8	تے	تے	CCONJ	_	_	18	cc	_	_
+9	فصل	فصل	NOUN	_	_	10	nsubj	_	_
+10	پکدی	پکنا	VERB	_	VerbForm=Part	18	advcl	_	_
+11	اے	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	10	aux	_	_
+12	تاں	تاں	PART	_	_	18	advmod	_	_
+13	اوہنوں	اوہ	PRON	_	PronType=Prs	18	iobj	_	_
+14	اپنی	اپنا	PRON	_	PronType=Prs	15	det	_	_
+15	محنت	محنت	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+16	دا	دا	ADP	_	_	15	case	_	_
+17	پھل	پھل	NOUN	_	_	18	nsubj	_	_
+18	ملدا	ملنا	VERB	_	Mood=Ind|VerbForm=Part	5	conj	_	_
+19	اے	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	18	aux	_	_
+20	-	-	PUNCT	_	_	5	punct	_	_
+
+# sent_id_coercive_discourse= 12
+# original_text = ڈھول دی تھاپ ’تے مرد لنگیاں، دھوتیاں، تہبند، کرتے تے پاجامے پا کے رقص کردے نیں۔.
+# transliteration = dhol di thaap te mard lungian, dhotian, tahband, kurte te paijaame paa ke raqs karde ne.
+# translation = On this occasion, men wearing colorful lungis, dhotis, tahbands, kurtas, and pajamas dance to the beat of the drum.
+# rtl = yes
+# text = ڈھول دی تھاپ تے مرد لنگیاں دھوتیاں تہبند کرتے تے پاجامے پا کے رقص کردے نیں -
+1	ڈھول	ڈھول	NOUN	_	_	3	nmod:poss	_	_
+2	دی	دا	ADP	_	_	1	case	_	_
+3	تھاپ	تھاپ	NOUN	_	_	15	obl	_	_
+4	تے	تے	ADP	_	_	3	case	_	_
+5	مرد	مرد	NOUN	_	_	15	nsubj	_	_
+6	لنگیاں	لنگی	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+7	دھوتیاں	دھوتی	NOUN	_	Gender=Fem|Number=Plur	6	conj	_	_
+8	تہبند	تہبند	NOUN	_	_	6	conj	_	_
+9	کرتے	کرتا	NOUN	_	Number=Plur	6	conj	_	_
+10	تے	تے	CCONJ	_	_	11	cc	_	_
+11	پاجامے	پاجامہ	NOUN	_	_	6	conj	_	_
+12	پا	پہننا	VERB	_	VerbForm=Part	15	advcl	_	_
+13	کے	کے	SCONJ	_	_	12	mark	_	_
+14	رقص	رقص	NOUN	_	_	15	obj	_	_
+15	کردے	_	VERB	_	_	0	root	_	_
+16	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	15	aux	_	_
+17	-	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id _coercive_discourse= 13
+# original_text = گھاگھرا پا کے دوشیزائیں لوک گیت گاندیاں نیں۔.
+# transliteration = ghaghra paa ke doshezaan lok geet gaandian ne.
+# translation = Girls wearing ghaghras sing folk songs.
+# rtl = yes
+# text = گھاگھرا پا کے دوشیزائیں لوک گیت گاندیاں نیں -
+1	گھاگھرا	گھاگھرا	NOUN	_	_	2	obj	_	_
+2	پا	پہننا	VERB	_	VerbForm=Part	7	advcl	_	_
+3	کے	کے	SCONJ	_	_	2	mark	_	_
+4	دوشیزائیں	دوشیزہ	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+5	لوک	لوک	ADJ	_	_	6	amod	_	_
+6	گیت	گیت	NOUN	_	_	7	obj	_	_
+7	گاندیاں	گانا	VERB	_	Mood=Ind|VerbForm=Part	0	root	_	_
+8	نیں	ہونا	AUX	_	Mood=Ind|VerbForm=Fin	7	aux	_	_
+9	-	-	PUNCT	_	_	7	punct	_	_
+
+# sent_id _coercive_discourse= 14
+# original_text = پر ایہہ سب ہن ماضی بن چکیا۔.
+# transliteration = par eh sab hun maazi ban chukia.
+# translation = But all this has now become a thing of the past.
+# rtl = yes
+# text = پر ایہہ سب ہن ماضی بن چکیا -
+1	پر	پر	CCONJ	_	_	6	discourse	_	_
+2	ایہہ	ایہہ	PRON	_	PronType=Dem	6	nsubj	_	_
+3	سب	سب	DET	_	PronType=Ind	2	det	_	_
+4	ہن	ہن	ADV	_	_	6	advmod	_	_
+5	ماضی	ماضی	NOUN	_	_	6	xcomp	_	_
+6	بن	بننا	VERB	_	Mood=Ind|VerbForm=Part	0	root	_	_
+7	چکیا	چکنا	VERB	_	Mood=Ind|VerbForm=Part	6	compound	_	_
+8	-	-	PUNCT	_	_	6	punct	_	_
+
