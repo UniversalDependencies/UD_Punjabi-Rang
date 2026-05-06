@@ -1,0 +1,43 @@
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Punjabi-Rang:
+commit ecf7cb87452351fb2b1fa90e9827e9edc6d3bba1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 09:48:23 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'pa_rang'
+Language code (from CoNLL-U file name) = 'pa'
+Found the following data files: pa_rang-ud-dev.conllu, pa_rang-ud-test.conllu, pa_rang-ud-train.conllu
+Size: counted 1907 of 1907 words (nodes).
+Size: min(0, log((N/1000)**2)) = 1.29106265323656.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 925 out of 1907 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 25 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang pa --max-err=10 UD_Punjabi-Rang/pa_rang-ud-dev.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang pa --max-err=10 UD_Punjabi-Rang/pa_rang-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang pa --max-err=10 UD_Punjabi-Rang/pa_rang-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.0934502310153352) = 0.0346111966723464
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{udeprels}=0.675675675675676) = 0.0750750750750751
+(TOTAL score=0.387478573853449) * (availability=1) * (validity=1) = 0.387478573853449
+STARS = 2
+UD_Punjabi-Rang	0.387478573853449	2
