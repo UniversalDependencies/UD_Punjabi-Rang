@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>137</sentences><tokens>1907</tokens><words>1907</words><fused>0</fused></total>
+    <train><sentences>81</sentences><tokens>1212</tokens><words>1212</words><fused>0</fused></train>
+    <dev><sentences>30</sentences><tokens>395</tokens><words>395</words><fused>0</fused></dev>
+    <test><sentences>26</sentences><tokens>300</tokens><words>300</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="640" /><!-- ہونا, ۔, دا, میں, تے, -, اس, میرا, نہیں, وچ, اہ, نوں, کے, ہی, کِ -->
+  <forms unique="711" /><!-- ۔, میں, -, تے, اس, نہیں, ہے, دی, اہ, دا, سی, وچ, نوں, دے, کے -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">116</tag><!-- بڑا, چھوٹا, پہلا, ہور, پنجابی, اجہا, دوجا, لوک, جوگا, جہا -->
+    <tag name="ADP">221</tag><!-- دا, وچ, نوں, نال, توں, لئی, تے, دی, کے, بجائے -->
+    <tag name="ADV">107</tag><!-- انج, ہن, بہت, اتھے, ہی, تراں, پھر, باہر, بس, تھوڑا -->
+    <tag name="AUX">115</tag><!-- ہونا -->
+    <tag name="CCONJ">47</tag><!-- تے, پر, اتے, جاں -->
+    <tag name="DET">66</tag><!-- میرا, اس, کوئی, آپنا, ہر, اہ, اپنا, سارا, میں, انہاں -->
+    <tag name="INTJ">4</tag><!-- اوں, بئی, لو -->
+    <tag name="NOUN">385</tag><!-- بھیڈ, چتر, اجگر, ڈرائنگ, ثقافت, گل, بندا, جہاز, وڈا, سال -->
+    <tag name="NUM">31</tag><!-- اک, اکّ, چھ, ہزار, ایک, اکو, دو, چارا -->
+    <tag name="PART">75</tag><!-- نہیں, ہی, تاں, وی, بھی, دا, نہ, ہاں, آپ, بس -->
+    <tag name="PRON">189</tag><!-- میں, اہ, اس, میرا, کوئی, انھاں, اپنا, جو, اسنوں, اوہ -->
+    <tag name="PROPN">30</tag><!-- شاہ, بلھے, وارث, فرید, پنجاب, ایریزونا, بخش, بسنت, بیساکھی, رانجھا -->
+    <tag name="PUNCT">159</tag><!-- ۔, -, ،, _, ؟, ", “, !, ”, : -->
+    <tag name="SCONJ">71</tag><!-- کِ, کے, جے, تاں, جدوں, کیونکِ, جو, جد, جویں, کہ -->
+    <tag name="VERB">291</tag><!-- کرنا, دینا, رہا, ہونا, گیا, کر, واہ, ہندا, جانا, دتا -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="28">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">46</feat><!-- سی, جاپدا, کردا, ہندا, جاندا, رہندا, ساں, لیندا, پیندا, آؤندا -->
+    <feat name="Aspect" value="Perf" upos="VERB">60</feat><!-- آیا, ملیا, گیا, بنایا, دتا, ویکھیا, پچھیا, آئی, آکھیا, اٹھ -->
+    <feat name="Case" value="Abl" upos="ADP,PRON">3</feat><!-- اس, تو, ولوں -->
+    <feat name="Case" value="Acc" upos="ADP,PRON">3</feat><!-- نوں, اسنوں -->
+    <feat name="Case" value="Nom" upos="PRON">7</feat><!-- میں -->
+    <feat name="Degree" value="Pos" upos="ADJ">49</feat><!-- بڑا, بڑی, بڑے, ہور, دوجی, سارا, سیانے, پہلا, پہلی, چنگی -->
+    <feat name="Gender" value="Fem" upos="ADJ,NOUN">115</feat><!-- بھیڈ, ڈرائنگ, بڑی, رات, ہیٹ, دیر, ریت, زبان, موت, پہلی -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,PROPN,VERB">153</feat><!-- چتر, اجگر, جہاز, وڈیاں, بندا, ہاتھی, اتر, اجگراں, انجن, بھگول -->
+    <feat name="Mood" value="Imp" upos="VERB">6</feat><!-- کریئے, بناؤ, دیو, واہو, ویکھو -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">196</feat><!-- ہے, سی, اے, ہاں, نیں, ہو, ہووے, رہا, گیا, دتا -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">65</feat><!-- انھاں, وڈیاں, تہانوں, اجگراں, تسیں, سیانے, لوکاں, ہن, آپنیاں, اناں -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">243</feat><!-- میں, مینوں, بھیڈ, چتر, ڈرائنگ, سی, اسنے, بڑی, جہاز, میرے -->
+    <feat name="NumType" value="Card" upos="NUM">21</feat><!-- اک, اکّ, چھ, ہزاراں, اکو, دوہاں -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">47</feat><!-- میں, مینوں, ساں, میرے, آپنیاں, اپنی, دیکھی, میرا, واہی -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">9</feat><!-- تسیں, تہانوں, توں, تینوں, دیو, دیوگے, ہو -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">21</feat><!-- سی, اسنوں, اسنے, اس, اناں, اہ, سکدے, ہن, ہے -->
+    <feat name="Poss" value="Yes" upos="PRON">1</feat><!-- آپنی -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">65</feat><!-- اس, اہ, ایہہ, اسنے, انہاں -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">34</feat><!-- کوئی, ہر, کجھ, کی, بہت, جو, ساری, سارے, سب, سبھ -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">147</feat><!-- میں, مینوں, میرا, میرے, میری, انھاں, آپنا, آپنی, اسنوں, اسنے -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">9</feat><!-- جو, جس, جسدا, جنھے, جہڑی -->
+    <feat name="Reflex" value="Yes" upos="PRON">3</feat><!-- آپنی, آپنے, اسنوں -->
+    <feat name="Tense" value="Fut" upos="VERB">3</feat><!-- دیوگے, کھاویگی, ہوویگا -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">46</feat><!-- سی, ساں, دتا, لگا, ملیا, ویکھیا, پچھیا, گیا, آئی, آکھیا -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">50</feat><!-- ہے, ہاں, اے, ہن, ہووے, جاندی, دیندی, سکدے, منائیئے, نیں -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">109</feat><!-- ہے, سی, ہاں, اے, نیں, کریئے, دیئے, سمجھئیے, سن, لگا -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">33</feat><!-- سمجھ, کرن, کہن, بنا, بناؤن, بولن, جانے, دس, دکھاؤن, دین -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">117</feat><!-- ہو, رہے, جاپدا, کردا, بنایا, جاندا, جاندی, رہا, رہندا, سوں -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="34">
+    <dep name="acl">8</dep>
+    <dep name="acl:relcl">11</dep>
+    <dep name="advcl">37</dep>
+    <dep name="advmod">130</dep>
+    <dep name="advmod:emph">2</dep>
+    <dep name="amod">87</dep>
+    <dep name="aux">99</dep>
+    <dep name="case">213</dep>
+    <dep name="cc">43</dep>
+    <dep name="cc:preconj">1</dep>
+    <dep name="ccomp">17</dep>
+    <dep name="compound">69</dep>
+    <dep name="conj">59</dep>
+    <dep name="cop">14</dep>
+    <dep name="det">76</dep>
+    <dep name="det:poss">15</dep>
+    <dep name="discourse">53</dep>
+    <dep name="iobj">24</dep>
+    <dep name="mark">71</dep>
+    <dep name="nmod">37</dep>
+    <dep name="nmod:poss">49</dep>
+    <dep name="nmod:tmod">1</dep>
+    <dep name="nsubj">158</dep>
+    <dep name="nummod">31</dep>
+    <dep name="obj">107</dep>
+    <dep name="obl">100</dep>
+    <dep name="obl:agent">1</dep>
+    <dep name="obl:arg">8</dep>
+    <dep name="obl:tmod">19</dep>
+    <dep name="parataxis">9</dep>
+    <dep name="punct">159</dep>
+    <dep name="root">137</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">61</dep>
+  </deps>
+</treebank>
