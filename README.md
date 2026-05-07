@@ -1,10 +1,10 @@
 # Summary
 
-The Punjabi-Rang treebank is a manually annotated corpus in Punjabi (Shahmukhi script).  
+The Punjabi-Rang treebank is a manually annotated corpus in Punjabi (Shahmukhi script).
 
 # Introduction
 
-It contains **100 sentences** from the first two chapters of *The Petit Prince* translated into Punjabi and **37 sentences** from a blog page containing a discourse on the national Punjabi day.  
+It contains **100 sentences** from the first two chapters of *The Petit Prince* translated into Punjabi and **37 sentences** from a blog page containing a discourse on the national Punjabi day.
 The data has been annotated according to Universal Dependencies guidelines.
 
 The corpus is split **contiguously** into training, development, and test sets as follows:
@@ -43,7 +43,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Abid, Rimsha; Talamo, Luigi; Vaz, Helena; Dyer, Andrew; Verkerk, Annemarie
+Contributors: Abid, Rimsha; Talamo, Luigi; Vaz, Helena; Dyer, Andrew Thomas; Verkerk, Annemarie
 Contributing: here
 Contact: annemarie.verkerk@uni-saarland.de
 ===============================================================================
