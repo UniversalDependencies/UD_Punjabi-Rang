@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Punjabi-Rang:
-commit ecf7cb87452351fb2b1fa90e9827e9edc6d3bba1
+commit d1ad8bd7db5b16566169b2a217662ecc726791b8
+Merge: ba905ed fb2f6ad
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 6 09:48:23 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pa_rang'
 Language code (from CoNLL-U file name) = 'pa'
